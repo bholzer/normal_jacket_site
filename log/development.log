@@ -1,0 +1,1326 @@
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.8709ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_content_types selector={} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.2429ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-25 16:15:38 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4702ms)
+Creating scope :root. Overwriting existing method Locomotive::Page.root.
+Processing by Locomotive::Public::PagesController#show as HTML
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_accounts", :query=>{}} (0.3951ms)
+Redirected to http://localhost:8080/locomotive/installation
+Filter chain halted as :require_site rendered or redirected
+Completed 302 Found in 2.0ms
+
+
+Started GET "/locomotive/installation" for 127.0.0.1 at 2015-03-25 16:15:38 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3209ms)
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"step"=>1}
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3338ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_sites", :query=>{}} (0.2589ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/installation/step_1.html.haml within /locomotive/layouts/not_logged_in (847.6ms)
+Compiled jquery.js  (1ms)  (pid 17752)
+Compiled locomotive/not_logged_in.js  (113ms)  (pid 17752)
+Compiled locomotive/blueprint/screen.css  (0ms)  (pid 17752)
+Compiled locomotive/font-awesome.css  (147ms)  (pid 17752)
+Compiled locomotive/not_logged_in/installation.css  (826ms)  (pid 17752)
+Compiled locomotive/not_logged_in/layout.css  (657ms)  (pid 17752)
+Compiled locomotive/not_logged_in.css  (1695ms)  (pid 17752)
+Completed 200 OK in 2693.4ms (Views: 2691.6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2739ms)
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.js?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2289ms)
+Served asset /locomotive/not_logged_in.js - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2680ms)
+Served asset /locomotive/blueprint/screen.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2630ms)
+Served asset /locomotive/font-awesome.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/installation.css?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2999ms)
+Served asset /locomotive/not_logged_in/installation.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/layout.css?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2668ms)
+Served asset /locomotive/not_logged_in/layout.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.css?body=1" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2620ms)
+Served asset /locomotive/not_logged_in.css - 200 OK (50ms)
+
+
+Started GET "/assets/locomotive/background/body.png" for 127.0.0.1 at 2015-03-25 16:15:41 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3312ms)
+Served asset /locomotive/background/body.png - 200 OK (5ms)
+
+
+Started POST "/locomotive/installation/1" for 127.0.0.1 at 2015-03-25 16:15:54 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2880ms)
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wNZRPcXc+EGBNmuqS8E4VWsWfDf4MLEBZdNhnmaD4+s=", "account"=>{"name"=>"Brennan", "email"=>"brennan.holzer@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create account", "step"=>"1"}
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2561ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_sites", :query=>{}} (0.2859ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"email"=>"brennan.holzer@gmail.com"} flags=[] limit=1 skip=0 batch_size=nil fields={:_id=>1} (0.2828ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=normal_jacket_dev collection=locomotive_accounts documents=[{"_id"=>"5513258a1241e7f288000001", "email"=>"brennan.holzer@gmail.com", "encrypted_password"=>"e128676748cccdf26bd22876ffe26484d58b9495", "sign_in_count"=>0, "locale"=>"en", "name"=>"Brennan", "password_salt"=>"CCFA2Wemp6iiBrs4bQNW", "api_key"=>"dd4aa9427f4309f28fff03563099700ddcea74d0", "updated_at"=>2015-03-25 21:15:54 UTC, "created_at"=>2015-03-25 21:15:54 UTC}] flags=[] (0.1369ms)
+Redirected to http://localhost:8080/locomotive/installation/2
+Completed 302 Found in 9.4ms
+
+
+Started GET "/locomotive/installation/2" for 127.0.0.1 at 2015-03-25 16:15:54 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (107.1942ms)
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"step"=>"2"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_sites", :query=>{}} (0.4449ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/installation/step_2.html.haml within /locomotive/layouts/not_logged_in (8.7ms)
+Completed 200 OK in 14.6ms (Views: 13.4ms)
+
+
+Started POST "/locomotive/installation/2" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2830ms)
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wNZRPcXc+EGBNmuqS8E4VWsWfDf4MLEBZdNhnmaD4+s=", "site"=>{"name"=>"Normal Jacket", "locales"=>["en"]}, "commit"=>"Create site", "step"=>"2"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_sites", :query=>{}} (0.2851ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4570ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=normal_jacket_dev collection=locomotive_sites documents=[{"_id"=>"551325921241e7f288000002", "locales"=>["en"], "timezone_name"=>"UTC", "name"=>"Normal Jacket", "prefix_default_locale"=>false, "updated_at"=>2015-03-25 21:16:02 UTC, "created_at"=>2015-03-25 21:16:02 UTC, "memberships"=>[{"_id"=>"551325921241e7f288000003", "role"=>"admin", "account_id"=>"5513258a1241e7f288000001"}]}] flags=[] (0.1621ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"site_id"=>"551325921241e7f288000002", "parent_id"=>nil, "$or"=>[{"slug.en"=>"index"}]} flags=[] limit=1 skip=0 batch_size=nil fields={:_id=>1} (0.3500ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"parent_id"=>nil, "site_id"=>"551325921241e7f288000002", "_id"=>{"$ne"=>"551325921241e7f288000004"}, "position"=>{"$ne"=>nil}}, "$orderby"=>{"position"=>1}} flags=[] limit=0 skip=0 batch_size=nil fields=nil (0.2081ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=normal_jacket_dev collection=locomotive_pages documents=[{"_id"=>"551325921241e7f288000004", "parent_ids"=>[], "depth"=>0, "template_dependencies"=>{"en"=>[]}, "snippet_dependencies"=>{"en"=>[]}, "redirect_type"=>301, "listed"=>true, "cache_strategy"=>"none", "response_type"=>"text/html", "published"=>true, "templatized"=>false, "templatized_from_parent"=>false, "redirect"=>false, "raw_template"=>{"en"=>"Content of the home page"}, "site_id"=>"551325921241e7f288000002", "slug"=>{"en"=>"index"}, "title"=>{"en"=>"Home page"}, "serialized_template"=>{"en"=>#<Moped::BSON::Binary type=:generic length=106>}, "position"=>0, "fullpath"=>{"en"=>"index"}, "locales"=>[:en], "updated_at"=>2015-03-25 21:16:02 UTC, "created_at"=>2015-03-25 21:16:02 UTC}] flags=[] (0.1502ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"parent_id"=>"551325921241e7f288000004"}, "$orderby"=>{"position"=>1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.8800ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"site_id"=>"551325921241e7f288000002", "template_dependencies.en"=>{"$in"=>["551325921241e7f288000004"]}}, "$orderby"=>{"position"=>1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.3400ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=normal_jacket_dev collection=locomotive_pages selector={"parent_ids"=>{"$in"=>["551325921241e7f288000004"]}} update={"$set"=>{"templatized"=>false, "templatized_from_parent"=>false, "target_klass_name"=>nil}} flags={:multi=>true} (0.1140ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"site_id"=>"551325921241e7f288000002", "parent_id"=>nil, "$or"=>[{"slug.en"=>"404"}]} flags=[] limit=1 skip=0 batch_size=nil fields={:_id=>1} (0.2458ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"parent_id"=>nil, "site_id"=>"551325921241e7f288000002", "_id"=>{"$ne"=>"551325921241e7f288000005"}, "position"=>{"$ne"=>nil}}, "$orderby"=>{"position"=>1}} flags=[] limit=0 skip=0 batch_size=nil fields=nil (0.6528ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"parent_id"=>nil, "site_id"=>"551325921241e7f288000002"}, "$orderby"=>{"position"=>-1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3951ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=normal_jacket_dev collection=locomotive_pages documents=[{"_id"=>"551325921241e7f288000005", "parent_ids"=>[], "depth"=>0, "template_dependencies"=>{"en"=>[]}, "snippet_dependencies"=>{"en"=>[]}, "redirect_type"=>301, "listed"=>true, "cache_strategy"=>"none", "response_type"=>"text/html", "published"=>true, "templatized"=>false, "templatized_from_parent"=>false, "redirect"=>false, "raw_template"=>{"en"=>"Content of the 404 page"}, "site_id"=>"551325921241e7f288000002", "slug"=>{"en"=>"404"}, "title"=>{"en"=>"Page not found"}, "serialized_template"=>{"en"=>#<Moped::BSON::Binary type=:generic length=105>}, "position"=>1, "fullpath"=>{"en"=>"404"}, "locales"=>[:en], "updated_at"=>2015-03-25 21:16:02 UTC, "created_at"=>2015-03-25 21:16:02 UTC}] flags=[] (0.1280ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"site_id"=>"551325921241e7f288000002", "template_dependencies.en"=>{"$in"=>["551325921241e7f288000005"]}}, "$orderby"=>{"position"=>1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.2410ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"parent_id"=>"551325921241e7f288000005"}, "$orderby"=>{"position"=>1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.2370ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=normal_jacket_dev collection=locomotive_pages selector={"parent_ids"=>{"$in"=>["551325921241e7f288000005"]}} update={"$set"=>{"templatized"=>false, "templatized_from_parent"=>false, "target_klass_name"=>nil}} flags={:multi=>true} (0.0792ms)
+Redirected to http://localhost:8080/locomotive/sign_in
+Completed 302 Found in 87.8ms
+
+
+Started GET "/locomotive/sign_in" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5140ms)
+Processing by Locomotive::SessionsController#new as HTML
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"_id"=>{"$in"=>["5513258a1241e7f288000001"]}}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5620ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/sessions/new.html.haml within /locomotive/layouts/not_logged_in (6.6ms)
+Completed 200 OK in 13.1ms (Views: 10.7ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5057ms)
+Served asset /locomotive/blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5338ms)
+Served asset /locomotive/font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/installation.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6111ms)
+Served asset /locomotive/not_logged_in/installation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5031ms)
+Served asset /locomotive/not_logged_in.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/layout.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4818ms)
+Served asset /locomotive/not_logged_in/layout.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:02 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4749ms)
+Served asset /locomotive/not_logged_in.css - 304 Not Modified (0ms)
+
+
+Started POST "/locomotive/sign_in" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5419ms)
+Processing by Locomotive::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wNZRPcXc+EGBNmuqS8E4VWsWfDf4MLEBZdNhnmaD4+s=", "locomotive_account"=>{"remember_me"=>"true", "email"=>"bholzer", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"_id"=>{"$in"=>["5513258a1241e7f288000001"]}}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4768ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"email"=>"bholzer"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2842ms)
+Completed 401 Unauthorized in 47.2ms
+Processing by Locomotive::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wNZRPcXc+EGBNmuqS8E4VWsWfDf4MLEBZdNhnmaD4+s=", "locomotive_account"=>{"remember_me"=>"true", "email"=>"bholzer", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"_id"=>{"$in"=>["5513258a1241e7f288000001"]}}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4530ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/sessions/new.html.haml within /locomotive/layouts/not_logged_in (5.8ms)
+Completed 200 OK in 11.0ms (Views: 9.5ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5610ms)
+Served asset /locomotive/blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.7312ms)
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4659ms)
+Served asset /locomotive/not_logged_in.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4528ms)
+Served asset /locomotive/font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/installation.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5589ms)
+Served asset /locomotive/not_logged_in/installation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/layout.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4673ms)
+Served asset /locomotive/not_logged_in/layout.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:04 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4802ms)
+Served asset /locomotive/not_logged_in.css - 304 Not Modified (0ms)
+
+
+Started POST "/locomotive/sign_in" for 127.0.0.1 at 2015-03-25 16:16:16 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4840ms)
+Processing by Locomotive::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wNZRPcXc+EGBNmuqS8E4VWsWfDf4MLEBZdNhnmaD4+s=", "locomotive_account"=>{"remember_me"=>"true", "email"=>"brennan.holzer@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"_id"=>{"$in"=>["5513258a1241e7f288000001"]}}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4590ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"email"=>"brennan.holzer@gmail.com"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3729ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=normal_jacket_dev collection=locomotive_accounts selector={"_id"=>"5513258a1241e7f288000001"} update={"$set"=>{"remember_created_at"=>2015-03-25 21:16:16 UTC, "updated_at"=>2015-03-25 21:16:16 UTC}} flags=[] (0.1051ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=normal_jacket_dev collection=locomotive_accounts selector={"_id"=>"5513258a1241e7f288000001"} update={"$set"=>{"last_sign_in_at"=>2015-03-25 21:16:16 UTC, "current_sign_in_at"=>2015-03-25 21:16:16 UTC, "last_sign_in_ip"=>"127.0.0.1", "current_sign_in_ip"=>"127.0.0.1", "sign_in_count"=>1, "updated_at"=>2015-03-25 21:16:16 UTC}} flags=[] (0.1154ms)
+Redirected to http://localhost:8080/locomotive/pages
+Completed 302 Found in 16.0ms
+
+
+Started GET "/locomotive/pages" for 127.0.0.1 at 2015-03-25 16:16:16 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.7539ms)
+Processing by Locomotive::PagesController#index as HTML
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"$query"=>{"_id"=>"5513258a1241e7f288000001"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6731ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_accounts selector={"_id"=>{"$in"=>["5513258a1241e7f288000001"]}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.5209ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"site_id"=>"551325921241e7f288000002"}, "$orderby"=>{"depth"=>1, "position"=>1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields={"serialized_template.en"=>0, "template_dependencies.en"=>0, "snippet_dependencies.en"=>0, "templatized_from_parent"=>0, "redirect_url.en"=>0, "redirect_type"=>0, "seo_title.en"=>0, "meta_keywords.en"=>0, "meta_description.en"=>0, "handle"=>0, "raw_template.en"=>0, "locales"=>0, "cache_strategy"=>0} (0.8140ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_pages selector={"$query"=>{"site_id"=>"551325921241e7f288000002"}, "$orderby"=>{"position"=>1, "updated_at"=>-1}} flags=[:slave_ok] limit=5 skip=0 batch_size=nil fields={"serialized_template.en"=>0, "template_dependencies.en"=>0, "snippet_dependencies.en"=>0, "templatized_from_parent"=>0, "redirect_url.en"=>0, "redirect_type"=>0, "seo_title.en"=>0, "meta_keywords.en"=>0, "meta_description.en"=>0, "handle"=>0, "raw_template.en"=>0, "locales"=>0, "cache_strategy"=>0} (0.8652ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_content_types selector={"$query"=>{"site_id"=>"551325921241e7f288000002"}, "$orderby"=>{"updated_at"=>-1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields={"site_id"=>1, "name"=>1, "slug"=>1, "label_field_name"=>1} (0.3440ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_content_types selector={"$query"=>{"site_id"=>"551325921241e7f288000002"}, "$orderby"=>{"updated_at"=>-1}} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields={"site_id"=>1, "name"=>1, "slug"=>1, "label_field_name"=>1} (0.2103ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/menu/_contents.html.haml (14.9ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/actions/_contents.html.haml (1.5ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/pages/_page.html.haml (4.4ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/pages/index.html.haml within /locomotive/layouts/application (28.6ms)
+Compiled locomotive/jquery/ui.css  (183ms)  (pid 17752)
+Compiled locomotive/jquery.tagit.css  (0ms)  (pid 17752)
+Compiled formtastic.css  (0ms)  (pid 17752)
+Compiled select2/select2.css  (137ms)  (pid 17752)
+Compiled codemirror.css  (0ms)  (pid 17752)
+Compiled codemirror/themes/neat.css  (0ms)  (pid 17752)
+Compiled locomotive/toggle.css  (257ms)  (pid 17752)
+Compiled locomotive/liquid_mode.css  (0ms)  (pid 17752)
+Compiled locomotive/shared/_helpers.css  (315ms)  (pid 17752)
+Compiled locomotive/shared/_picker.css  (518ms)  (pid 17752)
+Compiled locomotive/shared/common.css  (308ms)  (pid 17752)
+Compiled locomotive/shared/content_locale_picker.css  (534ms)  (pid 17752)
+Compiled locomotive/shared/growl.css  (48ms)  (pid 17752)
+Compiled locomotive/backoffice/_box.css  (892ms)  (pid 17752)
+Compiled locomotive/backoffice/_buttons.css  (293ms)  (pid 17752)
+Compiled locomotive/backoffice/application.css  (2080ms)  (pid 17752)
+Compiled locomotive/backoffice/codemirror_changes.css  (333ms)  (pid 17752)
+Compiled locomotive/backoffice/content_assets.css  (1040ms)  (pid 17752)
+Compiled locomotive/backoffice/datepicker.css  (338ms)  (pid 17752)
+Compiled locomotive/backoffice/dialog_changes.css  (937ms)  (pid 17752)
+Compiled locomotive/backoffice/editable_elements.css  (1762ms)  (pid 17752)
+Compiled locomotive/backoffice/formtastic_changes.css  (1186ms)  (pid 17752)
+Compiled locomotive/backoffice/layout.css  (970ms)  (pid 17752)
+Compiled locomotive/backoffice/menu/sub.css  (167ms)  (pid 17752)
+Compiled locomotive/backoffice/menu/main.css  (146ms)  (pid 17752)
+Compiled locomotive/backoffice/menu/default.css  (145ms)  (pid 17752)
+Compiled locomotive/backoffice/menu.css  (519ms)  (pid 17752)
+Compiled locomotive/backoffice/menu/_colors.css  (68ms)  (pid 17752)
+Compiled locomotive/backoffice/menu/_helpers.css  (3ms)  (pid 17752)
+Compiled locomotive/backoffice/pagination.css  (585ms)  (pid 17752)
+Compiled locomotive/backoffice/sites_picker.css  (527ms)  (pid 17752)
+Compiled locomotive/backoffice/tagit_changes.css  (304ms)  (pid 17752)
+Compiled locomotive.css  (14535ms)  (pid 17752)
+Compiled jquery-ui.js  (4ms)  (pid 17752)
+Compiled jquery_ujs.js  (0ms)  (pid 17752)
+Compiled underscore.js  (0ms)  (pid 17752)
+Compiled backbone.js  (0ms)  (pid 17752)
+Compiled codemirror.js  (1ms)  (pid 17752)
+Compiled tinymce/preinit.js  (0ms)  (pid 17752)
+Compiled tinymce/jquery.tinymce.js  (0ms)  (pid 17752)
+Compiled tinymce/tiny_mce.js  (1ms)  (pid 17752)
+Compiled tinymce-jquery.js  (22ms)  (pid 17752)
+Compiled select2/select2.js  (0ms)  (pid 17752)
+Compiled codemirror/addons/mode/overlay.js  (0ms)  (pid 17752)
+Compiled codemirror/modes/css.js  (0ms)  (pid 17752)
+Compiled codemirror/modes/javascript.js  (0ms)  (pid 17752)
+Compiled codemirror/modes/xml.js  (0ms)  (pid 17752)
+Compiled codemirror/modes/htmlmixed.js  (0ms)  (pid 17752)
+Compiled locomotive/ICanHandlebarz.js  (0ms)  (pid 17752)
+Compiled locomotive/backbone.modelbinding.js  (0ms)  (pid 17752)
+Compiled locomotive/backbone.sync.js  (0ms)  (pid 17752)
+Compiled locomotive/cmd.js  (0ms)  (pid 17752)
+Compiled locomotive/cookies.js  (0ms)  (pid 17752)
+Compiled locomotive/datepicker_i18n.js  (5ms)  (pid 17752)
+Compiled locomotive/editable_field.js  (0ms)  (pid 17752)
+Compiled locomotive/form_submit_notification.js  (0ms)  (pid 17752)
+Compiled locomotive/growl.js  (0ms)  (pid 17752)
+Compiled locomotive/handlebars.js  (0ms)  (pid 17752)
+Compiled locomotive/jquery-ui-timepicker-addon.js  (0ms)  (pid 17752)
+Compiled locomotive/liquid_mode.js  (0ms)  (pid 17752)
+Compiled locomotive/menu_toggler.js  (0ms)  (pid 17752)
+Compiled locomotive/resize.js  (0ms)  (pid 17752)
+Compiled locomotive/slugify.js  (0ms)  (pid 17752)
+Compiled locomotive/smartupdater.js  (0ms)  (pid 17752)
+Compiled locomotive/subscribe.js  (0ms)  (pid 17752)
+Compiled locomotive/tag-it.min.js  (0ms)  (pid 17752)
+Compiled locomotive/toggle.js  (0ms)  (pid 17752)
+Compiled locomotive/vendor.js  (277ms)  (pid 17752)
+Compiled locomotive/utils/aloha_settings.js  (15ms)  (pid 17752)
+Compiled locomotive/utils/core_ext.js  (0ms)  (pid 17752)
+Compiled locomotive/utils/growl.js  (0ms)  (pid 17752)
+Compiled locomotive/utils/handlebar_helpers.js  (7ms)  (pid 17752)
+Compiled locomotive/utils/tinymce_settings.js  (7ms)  (pid 17752)
+Compiled locomotive/models/account.js  (5ms)  (pid 17752)
+Compiled locomotive/models/content_asset.js  (7ms)  (pid 17752)
+Compiled locomotive/models/content_entry.js  (23ms)  (pid 17752)
+Compiled locomotive/models/content_type.js  (7ms)  (pid 17752)
+Compiled locomotive/models/custom_field.js  (7ms)  (pid 17752)
+Compiled locomotive/models/custom_field_select_option.js  (4ms)  (pid 17752)
+Compiled locomotive/models/domain.js  (0ms)  (pid 17752)
+Compiled locomotive/models/editable_element.js  (13ms)  (pid 17752)
+Compiled locomotive/models/membership.js  (4ms)  (pid 17752)
+Compiled locomotive/models/page.js  (14ms)  (pid 17752)
+Compiled locomotive/models/site.js  (11ms)  (pid 17752)
+Compiled locomotive/models/snippet.js  (2ms)  (pid 17752)
+Compiled locomotive/models/theme_asset.js  (2ms)  (pid 17752)
+Compiled locomotive/models/translation.js  (2ms)  (pid 17752)
+Compiled locomotive/views/application_view.js  (15ms)  (pid 17752)
+Compiled locomotive/views/content_assets/picker_item_view.js  (6ms)  (pid 17752)
+Compiled locomotive/views/shared/asset_picker_view.js  (12ms)  (pid 17752)
+Compiled locomotive/views/content_assets/picker_view.js  (47ms)  (pid 17752)
+Compiled locomotive/views/shared/form_view.js  (26ms)  (pid 17752)
+Compiled locomotive/views/content_entries/_form_view.js  (67ms)  (pid 17752)
+Compiled locomotive/views/content_entries/_popup_form_view.js  (15ms)  (pid 17752)
+Compiled locomotive/views/content_entries/edit_view.js  (3ms)  (pid 17752)
+Compiled locomotive/views/content_entries/index_view.js  (4ms)  (pid 17752)
+Compiled locomotive/views/content_entries/new_view.js  (3ms)  (pid 17752)
+Compiled locomotive/views/content_types/_form_view.js  (13ms)  (pid 17752)
+Compiled locomotive/views/content_types/custom_field_entry_view.js  (14ms)  (pid 17752)
+Compiled locomotive/views/content_types/custom_fields_view.js  (10ms)  (pid 17752)
+Compiled locomotive/views/content_types/edit_view.js  (5ms)  (pid 17752)
+Compiled locomotive/views/content_types/new_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/content_types/select_options_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/sites/domains_view.js  (9ms)  (pid 17752)
+Compiled locomotive/views/current_site/edit_view.js  (26ms)  (pid 17752)
+Compiled locomotive/views/editable_elements/control_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/editable_elements/edit_all_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/editable_elements/file_view.js  (15ms)  (pid 17752)
+Compiled locomotive/views/editable_elements/text_view.js  (7ms)  (pid 17752)
+Compiled locomotive/views/inline_editor/application_view.js  (12ms)  (pid 17752)
+Compiled locomotive/views/inline_editor/toolbar_view.js  (12ms)  (pid 17752)
+Compiled locomotive/views/my_account/edit_view.js  (3ms)  (pid 17752)
+Compiled locomotive/views/pages/_form_view.js  (28ms)  (pid 17752)
+Compiled locomotive/views/pages/edit_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/pages/index_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/pages/list_view.js  (4ms)  (pid 17752)
+Compiled locomotive/views/pages/new_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/_relationship_view.js  (6ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/belongs_to_view.js  (3ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/file_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/has_many_view.js  (16ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/many_to_many_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/shared/fields/select_view.js  (14ms)  (pid 17752)
+Compiled locomotive/views/shared/list_item_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/shared/list_view.js  (5ms)  (pid 17752)
+Compiled locomotive/views/sites/domain_entry_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/sites/membership_entry_view.js  (3ms)  (pid 17752)
+Compiled locomotive/views/sites/memberships_view.js  (4ms)  (pid 17752)
+Compiled locomotive/views/sites/new_view.js  (4ms)  (pid 17752)
+Compiled locomotive/views/snippets/_form_view.js  (12ms)  (pid 17752)
+Compiled locomotive/views/snippets/edit_view.js  (1ms)  (pid 17752)
+Compiled locomotive/views/snippets/list_item_view.js  (1ms)  (pid 17752)
+Compiled locomotive/views/snippets/list_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/snippets/new_view.js  (1ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/_form_view.js  (12ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/edit_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/image_picker_view.js  (5ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/index_view.js  (11ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/list_item_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/list_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/theme_assets/new_view.js  (1ms)  (pid 17752)
+Compiled locomotive/views/translations/_form_view.js  (2ms)  (pid 17752)
+Compiled locomotive/views/translations/edit_view.js  (5ms)  (pid 17752)
+Compiled locomotive/views/translations/new_view.js  (1ms)  (pid 17752)
+Compiled locomotive/application.js  (1719ms)  (pid 17752)
+Compiled locomotive.js  (2282ms)  (pid 17752)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_main_app_head_before_backbone.html.haml (0.6ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=normal_jacket_dev command={:count=>"locomotive_sites", :query=>{"memberships"=>{"$elemMatch"=>{:account_id=>"5513258a1241e7f288000001", :role=>:admin}}}} (0.4811ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_main_app_head.html.haml (0.6ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_head.html.haml (17005.0ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/cells/locomotive/global_actions/show.html.haml (1.3ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_main_app_header.html.haml (0.4ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_header.html.haml (18.9ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/cells/locomotive/main_menu/show.html.haml (1.5ms)
+  Rendered /Users/brennan/.rvm/gems/ruby-1.9.3-p194/gems/locomotive_cms-2.5.6/app/views/locomotive/shared/_footer.html.haml (0.8ms)
+Completed 200 OK in 17081.5ms (Views: 17070.3ms)
+
+
+Started GET "/assets/locomotive.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4983ms)
+Served asset /locomotive.css - 200 OK (41ms)
+
+
+Started GET "/assets/locomotive/jquery/ui.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4091ms)
+Served asset /locomotive/jquery/ui.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/jquery.tagit.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4292ms)
+Served asset /locomotive/jquery.tagit.css - 200 OK (1ms)
+
+
+Started GET "/assets/formtastic.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4051ms)
+Served asset /formtastic.css - 200 OK (2ms)
+
+
+Started GET "/assets/select2/select2.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4821ms)
+Served asset /select2/select2.css - 200 OK (1ms)
+
+
+Started GET "/assets/codemirror.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3932ms)
+Served asset /codemirror.css - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4029ms)
+Served asset /locomotive/blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3979ms)
+Served asset /locomotive/font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/codemirror/themes/neat.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4449ms)
+Served asset /codemirror/themes/neat.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/toggle.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3982ms)
+Served asset /locomotive/toggle.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/liquid_mode.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3951ms)
+Served asset /locomotive/liquid_mode.css - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/shared/_helpers.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4151ms)
+Served asset /locomotive/shared/_helpers.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/shared/_picker.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4148ms)
+Served asset /locomotive/shared/_picker.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/shared/common.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:33 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4270ms)
+Served asset /locomotive/shared/common.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/shared/content_locale_picker.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4201ms)
+Served asset /locomotive/shared/content_locale_picker.css - 200 OK (46ms)
+
+
+Started GET "/assets/locomotive/shared/growl.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5031ms)
+Served asset /locomotive/shared/growl.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/_box.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4361ms)
+Served asset /locomotive/backoffice/_box.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/_buttons.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4177ms)
+Served asset /locomotive/backoffice/_buttons.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/application.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4480ms)
+Served asset /locomotive/backoffice/application.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/codemirror_changes.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4182ms)
+Served asset /locomotive/backoffice/codemirror_changes.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/content_assets.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4227ms)
+Served asset /locomotive/backoffice/content_assets.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/datepicker.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4640ms)
+Served asset /locomotive/backoffice/datepicker.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/dialog_changes.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4261ms)
+Served asset /locomotive/backoffice/dialog_changes.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/editable_elements.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4308ms)
+Served asset /locomotive/backoffice/editable_elements.css - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/backoffice/formtastic_changes.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3989ms)
+Served asset /locomotive/backoffice/formtastic_changes.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/layout.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4108ms)
+Served asset /locomotive/backoffice/layout.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu/sub.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4187ms)
+Served asset /locomotive/backoffice/menu/sub.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu/main.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4301ms)
+Served asset /locomotive/backoffice/menu/main.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu/default.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4182ms)
+Served asset /locomotive/backoffice/menu/default.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4032ms)
+Served asset /locomotive/backoffice/menu.css - 200 OK (5ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu/_colors.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3908ms)
+Served asset /locomotive/backoffice/menu/_colors.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/menu/_helpers.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4051ms)
+Served asset /locomotive/backoffice/menu/_helpers.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/pagination.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4179ms)
+Served asset /locomotive/backoffice/pagination.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/sites_picker.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4749ms)
+Served asset /locomotive/backoffice/sites_picker.css - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backoffice/tagit_changes.css?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.3960ms)
+Served asset /locomotive/backoffice/tagit_changes.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4251ms)
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4189ms)
+Served asset /jquery-ui.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4179ms)
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4740ms)
+Served asset /underscore.js - 200 OK (2ms)
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4811ms)
+Served asset /backbone.js - 200 OK (2ms)
+
+
+Started GET "/assets/codemirror.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4532ms)
+Served asset /codemirror.js - 200 OK (2ms)
+
+
+Started GET "/assets/tinymce/preinit.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5178ms)
+Served asset /tinymce/preinit.js - 200 OK (1ms)
+
+
+Started GET "/assets/tinymce/jquery.tinymce.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5870ms)
+Served asset /tinymce/jquery.tinymce.js - 200 OK (2ms)
+
+
+Started GET "/assets/tinymce/tiny_mce.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5047ms)
+Served asset /tinymce/tiny_mce.js - 200 OK (1ms)
+
+
+Started GET "/assets/tinymce-jquery.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4799ms)
+Served asset /tinymce-jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/select2/select2.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4628ms)
+Served asset /select2/select2.js - 200 OK (1ms)
+
+
+Started GET "/assets/codemirror/addons/mode/overlay.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4830ms)
+Served asset /codemirror/addons/mode/overlay.js - 200 OK (1ms)
+
+
+Started GET "/assets/codemirror/modes/css.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4637ms)
+Served asset /codemirror/modes/css.js - 200 OK (52ms)
+
+
+Started GET "/assets/codemirror/modes/javascript.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6058ms)
+Served asset /codemirror/modes/javascript.js - 200 OK (2ms)
+
+
+Started GET "/assets/codemirror/modes/xml.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5939ms)
+Served asset /codemirror/modes/xml.js - 200 OK (2ms)
+
+
+Started GET "/assets/codemirror/modes/htmlmixed.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5350ms)
+Served asset /codemirror/modes/htmlmixed.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/ICanHandlebarz.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6449ms)
+Served asset /locomotive/ICanHandlebarz.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/backbone.modelbinding.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4740ms)
+Served asset /locomotive/backbone.modelbinding.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/backbone.sync.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5479ms)
+Served asset /locomotive/backbone.sync.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/cmd.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6218ms)
+Served asset /locomotive/cmd.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/cookies.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5813ms)
+Served asset /locomotive/cookies.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/datepicker_i18n.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4821ms)
+Served asset /locomotive/datepicker_i18n.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/editable_field.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5789ms)
+Served asset /locomotive/editable_field.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/form_submit_notification.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5038ms)
+Served asset /locomotive/form_submit_notification.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/growl.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4873ms)
+Served asset /locomotive/growl.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/handlebars.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4890ms)
+Served asset /locomotive/handlebars.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/jquery-ui-timepicker-addon.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5870ms)
+Served asset /locomotive/jquery-ui-timepicker-addon.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/liquid_mode.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5209ms)
+Served asset /locomotive/liquid_mode.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/menu_toggler.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:34 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5262ms)
+Served asset /locomotive/menu_toggler.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/resize.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4671ms)
+Served asset /locomotive/resize.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/slugify.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6022ms)
+Served asset /locomotive/slugify.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/smartupdater.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4621ms)
+Served asset /locomotive/smartupdater.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/subscribe.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4511ms)
+Served asset /locomotive/subscribe.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/tag-it.min.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5119ms)
+Served asset /locomotive/tag-it.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/toggle.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5889ms)
+Served asset /locomotive/toggle.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/vendor.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5958ms)
+Served asset /locomotive/vendor.js - 200 OK (18ms)
+
+
+Started GET "/assets/locomotive/application.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5550ms)
+Served asset /locomotive/application.js - 200 OK (67ms)
+
+
+Started GET "/assets/locomotive/utils/aloha_settings.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5269ms)
+Served asset /locomotive/utils/aloha_settings.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/utils/core_ext.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6330ms)
+Served asset /locomotive/utils/core_ext.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/utils/growl.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4950ms)
+Served asset /locomotive/utils/growl.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/utils/handlebar_helpers.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6270ms)
+Served asset /locomotive/utils/handlebar_helpers.js - 200 OK (54ms)
+
+
+Started GET "/assets/locomotive/utils/tinymce_settings.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.7100ms)
+Served asset /locomotive/utils/tinymce_settings.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/account.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4652ms)
+Served asset /locomotive/models/account.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/content_asset.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4690ms)
+Served asset /locomotive/models/content_asset.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/content_entry.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4671ms)
+Served asset /locomotive/models/content_entry.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/content_type.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6230ms)
+Served asset /locomotive/models/content_type.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/custom_field.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5212ms)
+Served asset /locomotive/models/custom_field.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/custom_field_select_option.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6170ms)
+Served asset /locomotive/models/custom_field_select_option.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/domain.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4890ms)
+Served asset /locomotive/models/domain.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/editable_element.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4971ms)
+Served asset /locomotive/models/editable_element.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/membership.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4640ms)
+Served asset /locomotive/models/membership.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/page.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4661ms)
+Served asset /locomotive/models/page.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/site.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5419ms)
+Served asset /locomotive/models/site.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/snippet.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5388ms)
+Served asset /locomotive/models/snippet.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/theme_asset.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4859ms)
+Served asset /locomotive/models/theme_asset.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/models/translation.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4969ms)
+Served asset /locomotive/models/translation.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/application_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4718ms)
+Served asset /locomotive/views/application_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_assets/picker_item_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4642ms)
+Served asset /locomotive/views/content_assets/picker_item_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/asset_picker_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4768ms)
+Served asset /locomotive/views/shared/asset_picker_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_assets/picker_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5999ms)
+Served asset /locomotive/views/content_assets/picker_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/shared/form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4539ms)
+Served asset /locomotive/views/shared/form_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_entries/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6011ms)
+Served asset /locomotive/views/content_entries/_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/content_entries/_popup_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4859ms)
+Served asset /locomotive/views/content_entries/_popup_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/content_entries/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4652ms)
+Served asset /locomotive/views/content_entries/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_entries/index_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5748ms)
+Served asset /locomotive/views/content_entries/index_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_entries/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6001ms)
+Served asset /locomotive/views/content_entries/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_types/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5503ms)
+Served asset /locomotive/views/content_types/_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/content_types/custom_field_entry_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6061ms)
+Served asset /locomotive/views/content_types/custom_field_entry_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_types/custom_fields_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5102ms)
+Served asset /locomotive/views/content_types/custom_fields_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_types/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4952ms)
+Served asset /locomotive/views/content_types/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_types/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5622ms)
+Served asset /locomotive/views/content_types/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/content_types/select_options_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4733ms)
+Served asset /locomotive/views/content_types/select_options_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/sites/domains_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6227ms)
+Served asset /locomotive/views/sites/domains_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/current_site/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4711ms)
+Served asset /locomotive/views/current_site/edit_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/editable_elements/control_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4668ms)
+Served asset /locomotive/views/editable_elements/control_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/editable_elements/edit_all_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4730ms)
+Served asset /locomotive/views/editable_elements/edit_all_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/editable_elements/file_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:35 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4611ms)
+Served asset /locomotive/views/editable_elements/file_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/editable_elements/text_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4568ms)
+Served asset /locomotive/views/editable_elements/text_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/inline_editor/application_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5038ms)
+Served asset /locomotive/views/inline_editor/application_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/inline_editor/toolbar_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6490ms)
+Served asset /locomotive/views/inline_editor/toolbar_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/my_account/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5102ms)
+Served asset /locomotive/views/my_account/edit_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/pages/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6189ms)
+Served asset /locomotive/views/pages/_form_view.js - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/views/pages/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6080ms)
+Served asset /locomotive/views/pages/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/pages/index_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5550ms)
+Served asset /locomotive/views/pages/index_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/pages/list_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5090ms)
+Served asset /locomotive/views/pages/list_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/pages/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4940ms)
+Served asset /locomotive/views/pages/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/_relationship_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5078ms)
+Served asset /locomotive/views/shared/fields/_relationship_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/belongs_to_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5431ms)
+Served asset /locomotive/views/shared/fields/belongs_to_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/file_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6461ms)
+Served asset /locomotive/views/shared/fields/file_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/has_many_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4711ms)
+Served asset /locomotive/views/shared/fields/has_many_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/many_to_many_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4649ms)
+Served asset /locomotive/views/shared/fields/many_to_many_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/fields/select_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4649ms)
+Served asset /locomotive/views/shared/fields/select_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/shared/list_item_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6161ms)
+Served asset /locomotive/views/shared/list_item_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/shared/list_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5944ms)
+Served asset /locomotive/views/shared/list_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/sites/domain_entry_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5970ms)
+Served asset /locomotive/views/sites/domain_entry_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/sites/membership_entry_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4971ms)
+Served asset /locomotive/views/sites/membership_entry_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/sites/memberships_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5190ms)
+Served asset /locomotive/views/sites/memberships_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/sites/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4570ms)
+Served asset /locomotive/views/sites/new_view.js - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/views/snippets/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4649ms)
+Served asset /locomotive/views/snippets/_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/snippets/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.7131ms)
+Served asset /locomotive/views/snippets/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/snippets/list_item_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5431ms)
+Served asset /locomotive/views/snippets/list_item_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/snippets/list_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4449ms)
+Served asset /locomotive/views/snippets/list_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/snippets/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4680ms)
+Served asset /locomotive/views/snippets/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5841ms)
+Served asset /locomotive/views/theme_assets/_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5460ms)
+Served asset /locomotive/views/theme_assets/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/image_picker_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4742ms)
+Served asset /locomotive/views/theme_assets/image_picker_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/index_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4420ms)
+Served asset /locomotive/views/theme_assets/index_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/list_item_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6192ms)
+Served asset /locomotive/views/theme_assets/list_item_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/list_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5910ms)
+Served asset /locomotive/views/theme_assets/list_view.js - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/views/theme_assets/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.6330ms)
+Served asset /locomotive/views/theme_assets/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/translations/_form_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5019ms)
+Served asset /locomotive/views/translations/_form_view.js - 200 OK (2ms)
+
+
+Started GET "/assets/locomotive/views/translations/edit_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4761ms)
+Served asset /locomotive/views/translations/edit_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive/views/translations/new_view.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4623ms)
+Served asset /locomotive/views/translations/new_view.js - 200 OK (1ms)
+
+
+Started GET "/assets/locomotive.js?body=1" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5651ms)
+Served asset /locomotive.js - 200 OK (171ms)
+
+
+Started GET "/assets/locomotive/fontawesome-webfont.woff" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5140ms)
+Served asset /locomotive/fontawesome-webfont.woff - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/background/body.png" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.5009ms)
+Served asset /locomotive/background/body.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/locomotive/nocoffee.png" for 127.0.0.1 at 2015-03-25 16:16:36 -0500
+[LocomotiveCMS] [fetch site] host = localhost / localhost:8080
+  MOPED: 127.0.0.1:27017 QUERY        database=normal_jacket_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4747ms)
+Served asset /locomotive/nocoffee.png - 200 OK (3ms)
