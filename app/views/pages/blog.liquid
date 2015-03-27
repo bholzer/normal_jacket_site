@@ -1,0 +1,24 @@
+---
+title: Blog
+slug: blog
+is_layout: false
+handle: blog
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 1
+seo_title: Blog
+---
+{% extends 'parent' %}
+{% block 'main' %}
+  <ul class="blog-posts">
+    {% for post in contents.posts %}
+      <li class="blog-post">
+        <h2 class="title">{{ post.title }}</h1>
+        <span class="author">{{ post.author.name }}</span>
+        <span class="content">{{ post.content }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endblock %}

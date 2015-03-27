@@ -1,0 +1,30 @@
+---
+name: People
+description: team members
+slug: people
+label_field_name: name
+order_by: created_at
+order_direction: asc
+fields:
+- name:
+    label: name
+    type: string
+    required: true
+    unique: false
+    localized: false
+- bio:
+    label: bio
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- posts:
+    label: posts
+    type: has_many
+    required: false
+    unique: false
+    localized: false
+    class_name: posts
+    inverse_of: author
+    ui_enabled: true

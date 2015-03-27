@@ -1,0 +1,8 @@
+---
+- Test Post:
+    _slug: test-post
+    content: Content of test post
+- This is my newest post:
+    _slug: this-is-my-newest-post
+    content: "<p>Test post by Darrell</p>"
+    published_at: 03/26/2015 00:00

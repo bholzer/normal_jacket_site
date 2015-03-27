@@ -7,4 +7,15 @@ cache_strategy: none
 response_type: text/html
 position: 0
 ---
-Pushed up from remote machine
+<html>
+  <head>
+  </head>
+  <body>
+    {% include 'header' %}
+    <div class="content">
+      {% block 'main' %}
+        <h1>Normal Jacket, coming soon</h1>
+      {% endblock %}
+    </div>
+  </body>
+</html>

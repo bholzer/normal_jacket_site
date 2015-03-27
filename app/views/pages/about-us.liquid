@@ -1,0 +1,27 @@
+---
+title: About us
+slug: about-us
+is_layout: false
+handle: about-us
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+seo_title: About Us
+---
+{% extends 'parent' %}
+{% block 'main' %}
+  {% for team_member in contents.people %}
+    <div class="team-member">
+      <span class="name">{{ team_member.name }}</span>
+      <div class="team-member-posts">
+        <ul>
+          {% for post in team_member.posts %}
+            <li>{{ post.title }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endfor %}
+{% endblock %}
