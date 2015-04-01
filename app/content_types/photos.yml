@@ -1,0 +1,32 @@
+---
+name: Photos
+slug: photos
+label_field_name: file
+order_by: created_at
+order_direction: asc
+fields:
+- file:
+    label: file
+    type: file
+    required: true
+    unique: false
+    localized: false
+- name:
+    label: name
+    type: string
+    required: false
+    unique: false
+    localized: false
+- caption:
+    label: caption
+    type: string
+    required: false
+    unique: false
+    localized: false
+- post:
+    label: post
+    type: belongs_to
+    unique: false
+    localized: false
+    class_name: posts
+    ui_enabled: false
