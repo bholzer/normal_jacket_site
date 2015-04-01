@@ -1,8 +1,9 @@
 ---
-- Test Post:
-    _slug: test-post
-    content: Content of test post
-- This is my newest post:
-    _slug: this-is-my-newest-post
-    content: "<p>Test post by Darrell</p>"
-    published_at: 03/26/2015 00:00
+- This is a post with images:
+    _slug: this-is-a-post-with-images
+    content: "<p>Add some image to this</p>"
+    author: brennan-holzer
+- First Post:
+    _slug: first-post
+    content: "<p>Testing the posts.&nbsp;</p>"
+    author: brennan-holzer

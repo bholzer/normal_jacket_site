@@ -18,6 +18,11 @@ seo_title: Blog
         <h2 class="title">{{ post.title }}</h1>
         <span class="author">{{ post.author.name }}</span>
         <span class="content">{{ post.content }}</span>
+        {% for photo in post.photos %}
+          <div>
+            <img src="{{ photo.file.url }}" alt="{{ photo.caption }}"/>
+          </div>
+        {% endfor %}
       </li>
     {% endfor %}
   </ul>

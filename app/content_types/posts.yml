@@ -19,12 +19,6 @@ fields:
     unique: false
     localized: false
     text_formatting: html
-- published_at:
-    label: published_at
-    type: date_time
-    required: false
-    unique: false
-    localized: false
 - author:
     label: author
     type: belongs_to
@@ -32,4 +26,13 @@ fields:
     unique: false
     localized: false
     class_name: people
+    ui_enabled: true
+- photos:
+    label: photos
+    type: has_many
+    required: false
+    unique: false
+    localized: false
+    class_name: photos
+    inverse_of: post
     ui_enabled: true
