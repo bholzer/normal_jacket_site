@@ -968,3 +968,146 @@ Detecting locale EN
 [0m
 * Reloaded "pages", "snippets" at 2015-04-01 17:32:15 -0500
 * Reloaded "pages", "snippets" at 2015-04-01 17:33:06 -0500
+{"source"=>["You are not allowed to upload \"txt\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc", "can't be blank"]}
+{"source"=>["You are not allowed to upload \"txt\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc", "can't be blank"]}
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+Found page "Normal Jacket" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/js/jquery.carouFredSel-6.2.1-packed.js" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/video/your_video.mp4" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/video/your_video.ogv" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted GET "/video/ny.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/img/small/s1.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted GET "/img/small/s3.jpg" at 2015-04-01 17:41:39 -0500[0m
+[0;97;49mStarted GET "/img/small/s4.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/small/s2.jpg" at 2015-04-01 17:41:39 -0500[0m
+[0;97;49mStarted GET "/img/small/s6.jpg" at 2015-04-01 17:41:39 -0500[0m
+[0;97;49mStarted GET "/img/small/s5.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/small/s7.jpg" at 2015-04-01 17:41:39 -0500[0m
+[0;32;49mCompleted 404 Not Found in 4.2ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 4.4ms
+
+[0m
+[0;97;49mStarted GET "/img/small/s8.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/img/zoom.png" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/video/ny.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+[0;97;49mStarted HEAD "/video/ny@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s1@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s2@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s3@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s4@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s5@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s6@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s7@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/small/s8@2x.jpg" at 2015-04-01 17:41:39 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
