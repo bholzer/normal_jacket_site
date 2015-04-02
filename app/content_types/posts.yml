@@ -36,3 +36,10 @@ fields:
     class_name: photos
     inverse_of: post
     ui_enabled: true
+- featured_image:
+    label: featured_image
+    type: file
+    hint: This image will be featured for the blog post (should be ~900x750)
+    required: false
+    unique: false
+    localized: false

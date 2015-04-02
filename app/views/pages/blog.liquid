@@ -29,29 +29,17 @@ seo_title: Blog
     <div class="row pad30">
 
     {% for post in contents.posts %}
-      <div class="col-md-9 pad25">
-        <div class="hover_img">
-          <img src="{{ post.featured_image.file.url }}" alt="">
+      <div class="col-md-12 pad25">
+        <div>
+          <img src="{{ post.featured_image.url | resize: '900x700'}}" alt="">
         </div>
         <div class="row">
-        <!--date-->
-          <div class="col-md-1 hidden-xs hidden-sm pad25">  
-            <div class="btn btn-medium btn-rounded btn-blog1">
-              29<br>MAY<br>
-              <i class="fa fa-comments fa-2x"></i><br>
-              <a class="com_no" href="#">23</a>
-            </div>
-          </div>
-          <div class="col-md-1 hidden-lg hidden-md pad25">  
-            <div class="btn btn-medium btn-rounded btn-blog2">
-              29 MAY <i class="fa fa-comments fa-2x"></i> <a class="com_no" href="#">23</a>
-            </div>
-          </div>
-          <div class="col-md-11">
+          <div class="col-md-12">
             <h1 class="post_link"><a href="blog_post.html">{{ post.title }}</a></h1>
             <div class="post-meta muted">
               <ul>
                 <li>Posted by <a href="#">{{ post.author.name }}</a> </li>
+                <li>{{ post.created_at | distance_of_time_in_words: now }} ago</li>
               </ul>
             </div>
             <p>{{ post.content }}
