@@ -26,7 +26,8 @@ fields:
 - post:
     label: post
     type: belongs_to
+    required: false
     unique: false
     localized: false
     class_name: posts
-    ui_enabled: false
+    ui_enabled: true
