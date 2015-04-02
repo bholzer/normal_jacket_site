@@ -33,6 +33,7 @@ website:   	http://www.themepunch.com
 	-	CAPTIONS	-
 **************************/
 
+
 .tp-hide-revslider,.tp-caption.tp-hidden-caption	{	visibility:hidden !important; display:none !important;}
 
 .tp-caption { z-index:1;}
