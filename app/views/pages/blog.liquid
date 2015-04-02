@@ -31,8 +31,7 @@ seo_title: Blog
     {% for post in contents.posts %}
       <div class="col-md-9 pad25">
         <div class="hover_img">
-          <a href="img/large/4.jpg" data-rel="prettyPhoto">
-          <img src="img/large/4.jpg" alt=""></a>
+          <img src="{{ post.featured_image.file.url }}" alt="">
         </div>
         <div class="row">
         <!--date-->
