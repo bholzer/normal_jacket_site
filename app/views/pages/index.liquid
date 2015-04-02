@@ -1,6 +1,8 @@
 ---
-title: Normal Jacket
+title: Home
+slug: home
 is_layout: false
+handle: home
 listed: true
 published: true
 cache_strategy: none
@@ -22,7 +24,7 @@ position: 0
   {% endif %}
 
   <title>
-    {{ page.title }} - {{ site.name }} |
+    {{ page.title }} - {{ site.name }}
     {% if page.seo_title %}
       {{ page.seo_title }}
     {% else %}
@@ -50,6 +52,9 @@ position: 0
   {{ 'colour.css' | stylesheet_tag: 'screen, projection' }}
   {{ 'prettyPhoto.css' | stylesheet_tag: 'screen, projection' }}
   {{ 'zocial.css' | stylesheet_tag: 'screen, projection' }}
+  {{ 'extralayers.css' | stylesheet_tag: 'screen, projection' }}
+  {{ 'nerveslider.css' | stylesheet_tag: 'screen, projection' }}
+  {{ 'settings.css' | stylesheet_tag: 'screen, projection' }}
   <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
   <!-- <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" /> -->
   <!--[if lt IE 9]>
@@ -58,99 +63,8 @@ position: 0
 </head>
 
 <body>
-<!--header-->
-  <div class="header">
-<!--menu-->
-    <nav id="main_menu" class="navbar" role="navigation">
-      <div class="container">
-            <div class="navbar-header">
-        <!--toggle-->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
-        <i class="fa fa-bars"></i>
-      </button>
-    <!--logo-->
-      <div class="logo">
-        <a href="index.html"><img src="img/logo.png" alt="" class="animated bounceInDown" /></a> 
-      </div>
-    </div>
-           
-            <div class="collapse navbar-collapse" id="menu">
-                <ul class="nav navbar-nav pull-right">
-                        <li class="dropdown active"><a href="javascript:{}">Home</a> 
-              <ul class="dropdown-menu">
-              <li><a href="index.html">Slider Revolution</a></li>
-              <li><a href="index2.html">Nerve Slider</a></li>
-              <li><a href="index3.html">NivoSlider</a></li>
-              <li><a href="index4.html">Slides</a></li>
-              <li><a href="index5.html">Html5 Video</a></li>
-            </ul>
-              </li>
-              <li class="dropdown"><a href="javascript:{}">Pages</a>
-            <ul class="dropdown-menu">
-                <li><a href="team.html">The Team</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="testimonials.html">Testimonials</a></li>
-                <li><a href="timeline.html">Timeline</a></li>
-                <li><a href="full.html">Full Width</a></li>
-                <li><a href="left_sidebar.html">Left Sidebar</a></li>
-                <li><a href="right_sidebar.html">Right Sidebar</a></li>
-            </ul>
-              </li>
-              <li class="dropdown"><a href="javascript:{}">Work</a>
-            <ul class="dropdown-menu">
-                <li><a href="portfolio_2columns.html">2 Columns</a></li>
-                <li><a href="portfolio_3columns.html">3 Columns</a></li>
-                <li><a href="portfolio_4columns.html">4 Columns</a></li>
-                <li><a href="portfolio_masonry.html">Masonry</a></li>
-                <li><a href="gallery.html">Paginated Gallery</a></li>
-                <li><a href="video_gallery.html">Video Gallery</a></li>
-                <li><a href="single_portfolio.html">Single Slider</a></li>
-                <li><a href="single_video.html">Single Video</a></li>
-                <li><a href="single_image.html">Single Image</a></li>
-                <li><a href="full_slider.html">Full Slider</a></li>
-                <li><a href="full_video.html">Full Video</a></li>
-            </ul>
-              </li>
-              <li class="dropdown"><a href="javascript:{}">Style</a>
-            <ul class="dropdown-menu">
-                <li><a href="scaffolding.html">Scaffolding</a></li>
-                <li><a href="shortcodes.html">Shortcodes</a></li>
-                <li><a href="icons.html">Icons</a></li>
-                <li><a href="script_examples.html">JS Examples</a></li>
-                <li><a href="javascript:{}">Sub Menu</a>
-              <ul class="dropdown-menu sub-menu">
-                <li><a href="#">Sub One</a></li>
-                <li><a href="#">Sub Two</a></li>
-                <li><a href="#">Sub Three</a></li>
-                <li><a href="#">Sub Four</a></li>
-              </ul>
-            </ul>
-              </li>
-              <li class="dropdown"><a href="javascript:{}">Extras</a>
-            <ul class="dropdown-menu">
-                <li><a href="dribbble_stream.html">Dribbble Stream</a></li>
-                <li><a href="alt_footer.html">Alt. Footer & Boxes</a></li>
-                <li><a href="pricing_table.html">Pricing Table</a></li>
-                <li><a href="404.html">404 Page</a></li>
-            </ul>
-              </li>
-              <li class="dropdown"><a href="javascript:{}">Blog</a>
-            <ul class="dropdown-menu">
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="blog_two.html">Blog II</a></li>
-                <li><a href="blog_post.html">Blog Post</a></li>
-                <li><a href="blog_post2.html">Blog Post II</a></li>
-            </ul>
-              </li>
-              <li><a href="contact.html">Contact</a></li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </div>
-  <!--//header-->
-  
+  {% include 'header' %}  
+  {% block 'main' %}
   <!--page-->
   <!-- REVOLUTION SLIDER -->
     <div class="tp-banner-container">
@@ -159,25 +73,25 @@ position: 0
   <!-- SLIDE -->
     <li data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7">
       <!-- MAIN IMAGE -->
-        <img src="video/ny.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+        <img src="{{ 'ny.jpg' | theme_image_url }}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
           <!-- LAYER NR. 1 -->
             <div class="tp-caption tp-fade fadeout fullscreenvideo"
               data-x="0"
               data-y="0"
               data-autoplay="true"
               data-autoplayonlyfirsttime="false"
-              data-nextslideatend="false"
+              data-nextslideatend="true"
               data-forceCover="1"
               data-dottedoverlay="twoxtwo"
               data-forcerewind="on"
               data-volume="mute"
               style="z-index: 2">
   <!-- ADD YOUR POSTER IMAGE HERE -->         
-  <video class="video-js" preload="none" autoplay loop width="100%" height="100%" poster="video/ny.jpg">
-  <!-- ADD YOUR VIDEOS HERE -->
+<!--   <video class="video-js" preload="none" autoplay loop width="100%" height="100%" poster="video/ny.jpg">
+  ADD YOUR VIDEOS HERE
   <source src="video/your_video.mp4" type='video/mp4' />
   <source src="video/your_video.ogv" type='video/ogg' />
-  </video>
+  </video> -->
     </div>
       <!-- LAYER NR. 2 -->
         <div class="tp-caption large_bold_title  tp-resizeme"
@@ -300,7 +214,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s1.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s1.jpg" alt="" /></a>
+          {{ 'small/s1.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -313,7 +227,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s2.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s2.jpg" alt="" /></a>
+          {{ 'small/s2.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -326,7 +240,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s3.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s3.jpg" alt="" /></a>
+          {{ 'small/s3.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -339,7 +253,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s4.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s4.jpg" alt="" /></a>
+          {{ 'small/s4.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -352,7 +266,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s5.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s5.jpg" alt="" /></a>
+          {{ 'small/s5.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -365,7 +279,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s6.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s6.jpg" alt="" /></a>
+          {{ 'small/s6.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -378,7 +292,7 @@ position: 0
       <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s7.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s7.jpg" alt="" /></a>
+          {{ 'small/s7.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -391,7 +305,7 @@ position: 0
         <div class="slider-image">
         <div class="hover_colour">
         <a href="img/large/s8.jpg" data-rel="prettyPhoto">
-          <img src="img/small/s8.jpg" alt="" /></a>
+          {{ 'small/s8.jpg' | image_tag }}</a>
           </div>
         </div>
         <div class="slider-title">
@@ -408,8 +322,9 @@ position: 0
       </div>
     </div>
     <!--//page-->
+  {% endblock %}
   </div>
-  
+  </div>
   <!-- footer -->
   <div id="footer">
     <h1>get in touch</h1>
@@ -452,10 +367,9 @@ position: 0
 {{ 'jquery.js' | javascript_tag }}
 {{ 'bootstrap.min.js' | javascript_tag }}
 {{ 'retina.js' | javascript_tag }}
+{{ 'rs-plugin/js/jquery.themepunch.tools.min.js' | javascript_tag }}
+{{ 'rs-plugin/js/jquery.themepunch.revolution.min.js' | javascript_tag }}
 
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-<!-- <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>   
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>        -->
 <!-- slider settings -->
 <script type="text/javascript">
 //<![CDATA[
@@ -476,12 +390,12 @@ position: 0
     //]]>
   </script>
 
-{{ 'js/jquery.touchSwipe.min.js' | javascript_tag }}
-{{ 'js/jquery.mousewheel.min.js' | javascript_tag }}
-{{ 'js/jquery.prettyPhoto.js' | javascript_tag }}
-{{ 'js/scripts.js' | javascript_tag }}
+{{ 'jquery.touchSwipe.min.js' | javascript_tag }}
+{{ 'jquery.mousewheel.min.js' | javascript_tag }}
+{{ 'jquery.prettyPhoto.js' | javascript_tag }}
+{{ 'jquery.carouFredSel-6.2.1-packed.js' | javascript_tag }}
+{{ 'scripts.js' | javascript_tag }}
 <!-- carousel -->
-<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 jQuery(document).ready(function($) {
