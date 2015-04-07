@@ -7090,3 +7090,485 @@ Detecting locale EN
 [0;32;49mCompleted 404 Not Found in 1.5ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:39:49 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:44:05 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:48:44 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:49:07 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 23:49:08 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:49:08 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:49:08 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:49:08 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 23:49:08 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:49:24 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 23:49:25 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:49:29 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 23:49:30 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:49:30 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:49:30 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:49:30 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 23:49:30 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-01 23:50:16 -0500
+* Reloaded "content_entries" at 2015-04-01 23:50:16 -0500
+* Reloaded "pages", "snippets" at 2015-04-01 23:50:16 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-01 23:50:16 -0500
+* Reloaded "pages", "snippets" at 2015-04-01 23:50:28 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:50:46 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 23:50:47 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.6ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:50:47 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:50:47 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:50:47 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 23:50:47 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-01 23:51:04 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:51:06 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/img/logo.png" at 2015-04-01 23:51:07 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:51:07 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:51:07 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:51:07 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+[0;97;49mStarted HEAD "/img/logo@2x.png" at 2015-04-01 23:51:07 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:52:39 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:52:42 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:52:42 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:52:42 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:52:42 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+unable to get an API token: 795: unexpected token at '<h1>Bad Gateway</h1>'
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-01 23:59:12 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:59:16 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:59:16 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:59:16 -0500[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:59:16 -0500[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/index.html" at 2015-04-01 23:59:19 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-01 23:59:19 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-01 23:59:19 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-01 23:59:19 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+unable to get an API token: 795: unexpected token at '<h1>Bad Gateway</h1>'
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-01 23:59:37 -0500
+* Reloaded "content_entries" at 2015-04-01 23:59:37 -0500
+* Reloaded "pages", "snippets" at 2015-04-01 23:59:37 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-01 23:59:37 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-02 00:00:21 -0500
+* Reloaded "pages", "snippets" at 2015-04-02 00:00:50 -0500
+* Reloaded "pages", "snippets" at 2015-04-02 00:01:09 -0500
+[0;97;49mStarted GET "/index.html" at 2015-04-02 00:01:15 -0500[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/img/red_ribbon.png" at 2015-04-02 00:01:15 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 26.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/timer.png" at 2015-04-02 00:01:15 -0500[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/loader.gif" at 2015-04-02 00:01:15 -0500[0m
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/about-us" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.0ms
+
+[0m
+[0;97;49mStarted GET "/img/team/team1.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/img/lines.png" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.6ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.4ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.4ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.4ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.4ms
+
+[0m
+[0;97;49mStarted HEAD "/img/team/team1@2x.jpg" at 2015-04-02 00:01:45 -0500[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.5ms
+
+[0m
+[0;97;49mStarted GET "/blog" at 2015-04-02 00:01:47 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted HEAD "/blog" at 2015-04-02 00:01:47 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-02 00:02:05 -0500
+[0;97;49mStarted GET "/blog" at 2015-04-02 00:02:08 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+[0;97;49mStarted HEAD "/blog" at 2015-04-02 00:02:08 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-02 00:02:23 -0500
+[0;97;49mStarted GET "/blog" at 2015-04-02 00:02:24 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+[0;97;49mStarted HEAD "/blog" at 2015-04-02 00:02:24 -0500[0m
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+Unable to resize on the fly: nil
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-02 00:04:24 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+Started GET "/" at 2015-04-07 17:39:05 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 58.0ms
+
+
+Started GET "/" at 2015-04-07 17:39:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 17:39:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 17:39:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 17:39:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/about-us" at 2015-04-07 17:39:10 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.1ms
+
+
+Started GET "/img/team/team1.jpg" at 2015-04-07 17:39:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/img/lines.png" at 2015-04-07 17:39:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Detecting locale EN
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 17:39:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.3ms
+
+
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 4.5ms
+
+
+Completed 404 Not Found in 4.0ms
+
+
+Completed 404 Not Found in 4.0ms
+
+
+Completed 404 Not Found in 4.1ms
+
+
+Completed 404 Not Found in 4.0ms
+
+
+Started GET "/blog" at 2015-04-07 17:39:12 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 12.3ms
+
+

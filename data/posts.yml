@@ -1,10 +1,33 @@
 ---
-- This is a post with images:
-    _slug: this-is-a-post-with-images
-    content: "<p>Add some image to this</p>"
-    author: brennan-holzer
 - First Post:
     _slug: first-post
-    content: "<p>Testing the posts.&nbsp;</p>"
+    content: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
+      sit amet enim sed blandit. Etiam eget euismod elit. Nulla viverra ligula in
+      mi vestibulum ornare. Quisque sit amet fermentum nisl. Vestibulum vehicula blandit
+      ex. Etiam volutpat lacinia est, id malesuada velit tristique ut. Etiam sit amet
+      felis eu orci pharetra pellentesque sed eu arcu. Praesent sollicitudin finibus
+      risus, a feugiat ante pellentesque quis. Morbi nibh augue, pellentesque sit
+      amet iaculis quis, mollis nec lorem. Aliquam tempus mattis risus non consectetur.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt luctus
+      leo. Sed volutpat volutpat massa, sed dapibus metus pharetra aliquam. Quisque
+      convallis sed arcu id eleifend. Donec faucibus turpis non elit cursus, sit amet
+      feugiat erat tincidunt.</p>\r\n<p><img src=\"/samples/assets/10575276_762934797060557_1506914388366141509_o__1_.jpg\"
+      alt=\"\" /></p>\r\n<p>Vestibulum eu tincidunt justo. Etiam sed facilisis elit,
+      sollicitudin venenatis lacus. Pellentesque a mauris eleifend, sagittis ligula
+      quis, facilisis urna. Pellentesque sit amet leo eu sem tempor tincidunt. Etiam
+      facilisis convallis turpis quis cursus. Proin ut rutrum lorem, a feugiat lorem.
+      Nulla consectetur libero dolor, eget elementum ipsum congue eget. Vivamus interdum
+      consequat suscipit. Phasellus dapibus imperdiet consectetur. Donec suscipit
+      tempor est, a dictum neque accumsan quis. Cras porta varius velit, ac gravida
+      quam laoreet at. Sed condimentum lacus risus, sed malesuada nibh consequat sed.
+      Nullam blandit ex auctor faucibus molestie.</p>\r\n<p>Nulla aliquet, lectus
+      id tempus finibus, metus lectus convallis lorem, id faucibus erat elit quis
+      lacus. Suspendisse in massa sem. Suspendisse sit amet finibus libero, a ultrices
+      ipsum. Vivamus facilisis sapien turpis, ac dapibus neque sodales ac. Nulla laoreet
+      nisi id hendrerit pellentesque. Vestibulum ante ipsum primis in faucibus orci
+      luctus et ultrices posuere cubilia Curae; Nulla luctus pulvinar feugiat. Ut
+      quis ligula dui. Fusce porta rhoncus ex, ac efficitur sem. Donec varius nibh
+      sed orci convallis porttitor. Mauris mi nisi, congue in imperdiet vitae, dictum
+      ut arcu.</p>"
     author: brennan-holzer
-    featured_image: "/samples/posts/first-post/Screen_Shot_2015-03-19_at_5.24.46_PM.png"
+    featured_image: "/samples/posts/first-post/Photo_on_3-11-15_at_4.04_PM.jpg"
