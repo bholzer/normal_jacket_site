@@ -22,6 +22,9 @@ website:   	http://www.themepunch.com
 
 
 
+
+
+
 .tp-static-layers	{	position:absolute; z-index:505; top:0px;left:0px;}
 
 .tp-hide-revslider,.tp-caption.tp-hidden-caption	{	visibility:hidden !important; display:none !important;}

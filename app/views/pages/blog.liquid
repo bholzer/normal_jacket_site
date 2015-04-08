@@ -42,9 +42,9 @@ seo_title: Blog
                 <li>{{ post.created_at | distance_of_time_in_words: now }} ago</li>
               </ul>
             </div>
-            <p>{{ post.content }}
-    <!--         <a href="#">[&#8230;]</a></p>
-            <div class="read_more"><a href="blog_post.html">READ MORE &rarr;</a></div> -->
+            <p>{{ post.content | truncatewords: 100 }}
+            <a href="/blog/{{ post._slug }}">[&#8230;]</a></p>
+            <div class="read_more"><a href="/blog/{{ post._slug }}">READ MORE &rarr;</a></div>
             <div class="pad30"></div>
             <hr>
           </div>

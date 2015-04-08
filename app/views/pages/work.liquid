@@ -1,0 +1,45 @@
+---
+title: Work
+slug: work
+is_layout: false
+handle: work
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 105
+seo_title: Work
+---
+{% extends 'parent' %}
+
+{% block 'main' %}
+
+<div id="banner">
+	<div class="container intro_wrapper">
+		<div class="inner_content">
+			<h1>Work</h1>
+			<h1 class="title">Take a look at our portfolio</h1>
+		</div>
+	</div>
+</div>
+<div class="container wrapper">
+	<div class="inner_content">
+    <div class="row">
+      <div class="">
+        <div class="col-xs-12 col-sm-6 col-md-6 element category01" data-category="category01">
+            <div class="hover_img">
+<a href="img/portfolio/1.jpg" data-rel="prettyPhoto[portfolio1]">	
+                <img src="img/portfolio/1.jpg" alt="" /></a>
+            </div> 
+            <div class="item_description">
+               <a href="single_portfolio.html"><span>Item Link</span></a>
+<br>
+item description
+            </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

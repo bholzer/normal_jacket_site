@@ -1,0 +1,42 @@
+---
+title: Content type template
+slug: content_type_template
+is_layout: false
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+content_type: posts
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container wrapper">
+  <div class="inner_content">
+    <div class="row pad30">
+      <div class="col-md-8 col-md-offset-2">
+        <h1 class="post_intro center">
+          {{ post.title }}
+        </h1>
+        <div class="post pad30">
+          <img src="{{ post.featured_image.url | resize: '900x700' }}" alt="">
+          <p class="pad30">
+            {{ post.content }}
+          </p>
+          <div class="post-meta pad25">
+            <ul>
+              <li>Posted by <a href="#">{{ post.author.name }}</a> <span class="muted">|</span></li>
+              <li> {{ post.created_at | distance_of_time_in_words: now }} ago </li>
+            </ul>
+          </div>
+          <div class="pad5"></div>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,29 @@
+---
+name: Photo Galleries
+description: A model for holding many photos
+slug: photo_galleries
+label_field_name: name
+order_by: created_at
+order_direction: asc
+fields:
+- name:
+    label: name
+    type: string
+    required: true
+    unique: false
+    localized: false
+- description:
+    label: description
+    type: string
+    required: false
+    unique: false
+    localized: false
+- photos:
+    label: photos
+    type: many_to_many
+    required: false
+    unique: false
+    localized: false
+    class_name: photos
+    inverse_of: galleries
+    ui_enabled: true

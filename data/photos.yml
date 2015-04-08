@@ -3,21 +3,28 @@
     _slug: tubes
     name: Test
     caption: This is a test image
+    galleries:
+    - test-gallery
 - "/samples/photos/ekg/EKG.jpg":
     _slug: ekg
     name: EKG
     caption: Something EKG related
-    post: this-is-a-post-with-images
+    galleries:
+    - test-gallery
 - "/samples/photos/tubes-1/tubes.jpg":
     _slug: tubes-1
     name: Tubes
     caption: More Doctor stuff
+    galleries: []
 - "/samples/photos/handx/handx.png":
     _slug: handx
     name: Hand thing
     caption: some hand
+    galleries:
+    - test-gallery
 - "/samples/photos/pup/pup.png":
     _slug: pup
     name: Doge
     caption: Doge
-    post: this-is-a-post-with-images
+    galleries:
+    - test-gallery

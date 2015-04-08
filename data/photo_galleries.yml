@@ -1,0 +1,9 @@
+---
+- Test Gallery:
+    _slug: test-gallery
+    description: This is a test gallery
+    photos:
+    - handx
+    - tubes
+    - ekg
+    - pup

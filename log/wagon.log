@@ -7572,3 +7572,534 @@ Found page "Blog" [blog]
 Completed 200 OK in 12.3ms
 
 
+* Reloaded "content_entries" at 2015-04-07 17:39:41 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 17:39:41 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:39:41 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 17:39:41 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 17:40:41 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:42:18 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:42:49 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:43:59 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:44:13 -0500
+Started GET "/blog" at 2015-04-07 17:44:20 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.9ms
+
+
+Started GET "/" at 2015-04-07 17:44:23 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 17:44:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 17:44:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 17:44:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/posts" at 2015-04-07 17:44:25 -0500
+Detecting locale EN
+Found page "Posts" [posts]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/posts/first-post" at 2015-04-07 17:44:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 17:48:51 -0500
+* Reloaded "content_entries" at 2015-04-07 17:48:51 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 17:48:51 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:48:51 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 17:49:58 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:54:24 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:57:16 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:57:42 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:58:06 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:58:26 -0500
+Started GET "/posts" at 2015-04-07 17:58:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/blog/first-page" at 2015-04-07 17:58:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/blog/first-page" at 2015-04-07 17:58:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 17:58:59 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 17:59:23 -0500
+* Reloaded "content_entries" at 2015-04-07 18:01:42 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 18:01:42 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 18:01:42 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:01:42 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 18:02:39 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:03:27 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:03:42 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:04:59 -0500
+Started GET "/blog/first-page" at 2015-04-07 18:05:09 -0500
+Detecting locale EN
+Found page "Content type template" [blog/*]
+Completed 404 Not Found in 0.9ms
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+Started GET "/blog/first-post" at 2015-04-07 18:05:13 -0500
+Detecting locale EN
+Found page "Content type template" [blog/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 63.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 18:13:06 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:13:09 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 18:15:27 -0500
+unable to get an API token: 795: unexpected token at '<h1>Bad Gateway</h1>'
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 18:58:26 -0500
+* Reloaded "content_entries" at 2015-04-07 18:58:26 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 18:58:26 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 18:58:26 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 18:59:30 -0500
+* Reloaded "content_entries" at 2015-04-07 19:02:51 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 19:02:51 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:02:51 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:02:51 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:03:47 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:08:11 -0500
+Started GET "/blog/first-post" at 2015-04-07 19:08:18 -0500
+Detecting locale EN
+Found page "Content type template" [blog/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+Started GET "/work" at 2015-04-07 19:08:20 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.8ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:08:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:08:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work" at 2015-04-07 19:09:21 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:09:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:09:27 -0500
+Started GET "/work" at 2015-04-07 19:09:27 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:09:27 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:27 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work" at 2015-04-07 19:09:30 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:09:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:09:35 -0500
+Started GET "/work" at 2015-04-07 19:09:36 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:09:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:09:42 -0500
+Started GET "/work" at 2015-04-07 19:09:43 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:09:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:09:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:10:07 -0500
+Started GET "/work" at 2015-04-07 19:10:07 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:10:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:10:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:10:31 -0500
+Started GET "/work" at 2015-04-07 19:10:31 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:10:45 -0500
+Started GET "/work" at 2015-04-07 19:10:45 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:11:34 -0500
+Started GET "/work" at 2015-04-07 19:11:34 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:11:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:11:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:12:19 -0500
+Started GET "/work" at 2015-04-07 19:12:21 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:12:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:12:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:12:38 -0500
+Started GET "/work" at 2015-04-07 19:12:41 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:12:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.6ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:12:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:13:12 -0500
+Started GET "/work" at 2015-04-07 19:13:13 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:13:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:13:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:13:42 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:14:35 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:14:37 -0500
+Started GET "/work" at 2015-04-07 19:14:39 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:14:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:14:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:15:30 -0500
+Started GET "/work" at 2015-04-07 19:15:31 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:15:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:15:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:16:34 -0500
+Started GET "/work" at 2015-04-07 19:16:36 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:16:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:16:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:16:51 -0500
+Started GET "/work" at 2015-04-07 19:16:52 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:16:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:16:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:17:34 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:18:00 -0500
+Started GET "/work" at 2015-04-07 19:18:03 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:18:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:18:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:18:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:18:20 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:18:28 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:18:32 -0500
+Started GET "/work" at 2015-04-07 19:18:32 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:18:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:18:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:18:38 -0500
+Started GET "/work" at 2015-04-07 19:18:38 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:18:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:18:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "content_types", "content_entries" at 2015-04-07 19:19:10 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:19:10 -0500
+* Reloaded "content_entries" at 2015-04-07 19:19:10 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:19:10 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:19:20 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:19:29 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:19:31 -0500
+Started GET "/work" at 2015-04-07 19:19:33 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.6ms
+
+
+Started GET "/img/portfolio/1.jpg" at 2015-04-07 19:19:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started HEAD "/img/portfolio/1@2x.jpg" at 2015-04-07 19:19:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:20:04 -0500
