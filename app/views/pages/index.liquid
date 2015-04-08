@@ -54,6 +54,19 @@ position: 0
   {{ 'extralayers.css' | stylesheet_tag: 'screen, projection' }}
   {{ 'nerveslider.css' | stylesheet_tag: 'screen, projection' }}
   {{ 'settings.css' | stylesheet_tag: 'screen, projection' }}
+  {{ 'jquery.js' | javascript_tag }}
+  {{ 'bootstrap.min.js' | javascript_tag }}
+  {{ 'retina.js' | javascript_tag }}
+  {{ 'jquery.touchSwipe.min.js' | javascript_tag }}
+  {{ 'jquery.mousewheel.min.js' | javascript_tag }}
+  {{ 'jquery.prettyPhoto.js' | javascript_tag }}
+  {{ 'jquery.carouFredSel-6.2.1-packed.js' | javascript_tag }}
+  {{ 'rs-plugin/js/jquery.themepunch.tools.min.js' | javascript_tag }}
+  {{ 'rs-plugin/js/jquery.themepunch.revolution.min.js' | javascript_tag }}
+  {{ 'jquery.isotope.min.js' | javascript_tag }}
+  {{ 'imagesloaded.pkgd.min.js' | javascript_tag }}
+  {{ 'scripts.js' | javascript_tag }}
+  
   <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
   <!-- <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" /> -->
   <!--[if lt IE 9]>
@@ -144,6 +157,7 @@ position: 0
           </p>
           </div> 
         <div class="pad25"></div>
+
       </div> 
         
       <div class="col-sm-6 col-md-3">
@@ -320,6 +334,24 @@ position: 0
       </div>
     </div>
     <!--//page-->
+    <script type="text/javascript">
+    //<![CDATA[
+    jQuery(document).ready(function($) {
+      $("#slider_home").carouFredSel({ 
+        width : "100%", 
+        height : "auto",
+        responsive : true,
+        auto : false,
+        items : { width : 280, visible: { min: 1, max: 3 }
+        },
+        swipe : { onTouch : true, onMouse : true },
+        scroll: { items: 1, },
+        prev : { button : "#sl-prev", key : "left"},
+        next : { button : "#sl-next", key : "right" }
+        });
+      });
+    //]]>
+    </script>
   {% endblock %}
   </div>
   </div>
@@ -362,11 +394,7 @@ position: 0
         <a href="#"><i class="go-top fa fa-angle-double-up"></i></a>
         <!--//end-->
         
-{{ 'jquery.js' | javascript_tag }}
-{{ 'bootstrap.min.js' | javascript_tag }}
-{{ 'retina.js' | javascript_tag }}
-{{ 'rs-plugin/js/jquery.themepunch.tools.min.js' | javascript_tag }}
-{{ 'rs-plugin/js/jquery.themepunch.revolution.min.js' | javascript_tag }}
+
 
 <!-- slider settings -->
 <script type="text/javascript">
@@ -388,30 +416,6 @@ position: 0
     //]]>
   </script>
 
-{{ 'jquery.touchSwipe.min.js' | javascript_tag }}
-{{ 'jquery.mousewheel.min.js' | javascript_tag }}
-{{ 'jquery.prettyPhoto.js' | javascript_tag }}
-{{ 'jquery.carouFredSel-6.2.1-packed.js' | javascript_tag }}
-{{ 'scripts.js' | javascript_tag }}
-<!-- carousel -->
-<script type="text/javascript">
-//<![CDATA[
-jQuery(document).ready(function($) {
-  $("#slider_home").carouFredSel({ 
-    width : "100%", 
-    height : "auto",
-    responsive : true,
-    auto : false,
-    items : { width : 280, visible: { min: 1, max: 3 }
-    },
-    swipe : { onTouch : true, onMouse : true },
-    scroll: { items: 1, },
-    prev : { button : "#sl-prev", key : "left"},
-    next : { button : "#sl-next", key : "right" }
-    });
-  });
-//]]>
-</script>
 
 </body>
 </html>

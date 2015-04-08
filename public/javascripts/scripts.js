@@ -1,4 +1,4 @@
-$(document).ready(function(){	
+$(document).ready(function(){
 
 /***************************************************
 	MENU
@@ -59,7 +59,9 @@ $("[data-rel=tooltip]").tooltip();
 				event.preventDefault();
 				
 				$('html, body').animate({scrollTop: 0}, 300);
-			})
+			});
+
+	
 		});	
 
 /***************************************************

@@ -25,21 +25,36 @@ seo_title: Work
 <div class="container wrapper">
 	<div class="inner_content">
     <div class="row">
-      <div class="">
+      <div class="projects">
+        {% for porfolio_item in contents.portfolio_items %}
         <div class="col-xs-12 col-sm-6 col-md-6 element category01" data-category="category01">
-            <div class="hover_img">
-<a href="img/portfolio/1.jpg" data-rel="prettyPhoto[portfolio1]">	
-                <img src="img/portfolio/1.jpg" alt="" /></a>
-            </div> 
-            <div class="item_description">
-               <a href="single_portfolio.html"><span>Item Link</span></a>
-<br>
-item description
-            </div>
+          <div class="hover_img">
+            <a href="/work/{{ portfolio_item._slug }}" data-rel="prettyPhoto[portfolio1]">
+              <img src="{{ portfolio_item.featured_image.url }}" alt="" />
+            </a>
+          </div>
+          <div class="item_description">
+            <a href="/work/{{ portfolio_item._slug }}"><span>{{ portfolio_item.title }}</span></a>
+            <br>
+            {{ portfolio_item.description }}
+          </div>
         </div>
+        {% endfor %}
         <div class="clear"></div>
       </div>
     </div>
   </div>
 </div>
+<script>
+  var $container = $('.projects');
+  $container.imagesLoaded(function() {
+  $('.projects').fadeIn(1000).isotope({
+  layoutMode : 'fitRows',
+    itemSelector : '.element' });
+  });
+  $('.element').css('opacity',0);
+  $('.element').each(function(i){
+  $(this).delay(i*150).animate({'opacity':1},350);
+  });
+</script>
 {% endblock %}
