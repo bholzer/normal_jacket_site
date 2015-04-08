@@ -1,19 +1,35 @@
 ---
 - Darrell Nance:
     _slug: darrell-nance
-    bio: "<p>This is Darrell's bio.</p>"
+    bio: Gimme a bio, Darrell!
+    photo: "/samples/people/darrell-nance/8H2A0273.JPG"
+    title: Director, Videographer/Photographer
 - Brennan Holzer:
     _slug: brennan-holzer
-    bio: "<p>This is Brennan's bio.</p>"
+    bio: Career software engineer. Avid player of FIFA and builder of things.
+    photo: "/samples/people/brennan-holzer/8H2A0256.JPG"
+    title: Product Development, Photographer
 - John Harris:
     _slug: john-harris
-    bio: "<p>This is John's bio.</p>"
+    bio: Gimme a bio, John!
+    photo: "/samples/people/john-harris/8H2A0288.JPG"
+    title: Brofounder/Ghostmaker
 - David Brim:
     _slug: david-brim
-    bio: "<p>This is David's bio.</p>"
+    bio: Gimme a bio, David!
+    photo: "/samples/people/david-brim/8H2A0369.JPG"
+    title: Product Development, Drone Pilot
 - Whitney Thompson:
     _slug: whitney-thompson
-    bio: "<p>This is Whitney's bio.</p>"
+    bio: Years of film experience. Best in the world at getting shit done. Literally
+      crushes everything she touches. Also likes dinosaurs and can't handle remotely
+      scary movies.
+    photo: "/samples/people/whitney-thompson/8H2A0275.JPG"
+    title: Assistant Director, Photographer
 - Jeff Thompson:
     _slug: jeff-thompson
-    bio: "<p>This is Jeff's bio.</p>"
+    bio: Career journalist specializing in narrative. Contractor for media presentation.
+      Secondary admirer of guitars, aficionado of nerd games and creator of swell
+      beats.
+    photo: "/samples/people/jeff-thompson/10606204_10102363359216051_3158277866884822958_n.jpg"
+    title: Specialist

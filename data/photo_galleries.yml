@@ -1,9 +1,8 @@
 ---
-- Test Gallery:
-    _slug: test-gallery
-    description: This is a test gallery
+- Gallery Test:
+    _slug: gallery-test
+    description: this a gallery for the first portfolio entry
     photos:
     - handx
-    - tubes
-    - ekg
     - pup
+    - screen_shot_2015-04-07_at_8_dot_12_dot_53_pm

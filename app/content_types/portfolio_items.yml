@@ -25,21 +25,20 @@ fields:
     required: true
     unique: false
     localized: false
-- photos:
-    label: photos
-    type: has_many
+- vimeo_embed:
+    label: vimeo_embed
+    type: belongs_to
     required: false
     unique: false
     localized: false
-    class_name: photos
-    inverse_of: post
+    class_name: vimeo_embeds
+    inverse_of: portfolio_item
     ui_enabled: true
-- galleries:
-    label: galleries
-    type: has_many
+- gallery:
+    label: gallery
+    type: belongs_to
     required: false
     unique: false
     localized: false
     class_name: photo_galleries
-    inverse_of: post
     ui_enabled: true

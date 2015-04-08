@@ -25,10 +25,9 @@ fields:
     unique: false
     localized: false
     class_name: photos
-    inverse_of: galleries
     ui_enabled: true
-- porfolio_item:
-    label: porfolio_item
+- portfolio_item:
+    label: portfolio_item
     type: belongs_to
     required: false
     unique: false

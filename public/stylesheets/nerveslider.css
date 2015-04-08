@@ -215,7 +215,7 @@
 		}
 
 .ns_nerveSlider .ns_filmstrip {
-	background:transparent url("../img/0,0,0,20.png") repeat;
+	background:transparent url("../images/0,0,0,20.png") repeat;
 	position:absolute;
 	top:-10px;
 	left:0;
@@ -374,11 +374,11 @@
 	}
 	
 .ns_nerveSlider .ns_loadSpinner div {
-	background:transparent url("../img/preload_img.gif") 50% 50% no-repeat;
+	background:transparent url("../images/preload_img.gif") 50% 50% no-repeat;
 	}
 	
 .ns_nerveSlider .ns_dummyImage div {
-	background:transparent url("../img/dummy.png") 50% 50% no-repeat;
+	background:transparent url("../images/dummy.png") 50% 50% no-repeat;
 	}
 	
 .ns_nerveSlider .ns_dots {
@@ -451,19 +451,19 @@
 	
 	
 .ns_nerveSlider.light .ns_prevButton div {
-	background:transparent url("../img/prev-light.png") 50% 50% no-repeat;
+	background:transparent url("../images/prev-light.png") 50% 50% no-repeat;
 	}
 	
 .ns_nerveSlider.light .ns_nextButton div {
-	background:transparent url("../img/next-light.png") 50% 50% no-repeat;
+	background:transparent url("../images/next-light.png") 50% 50% no-repeat;
 	}
 	
 .ns_nerveSlider.light .ns_pauseButton div {
-	background:transparent url("../img/play-pause-light.png") 50% 0% no-repeat;
+	background:transparent url("../images/play-pause-light.png") 50% 0% no-repeat;
 	}
 	
 .ns_nerveSlider.light .ns_timer {
-	background:transparent url("../img/nerve_timer.png") repeat;
+	background:transparent url("../images/nerve_timer.png") repeat;
 	}
 	
 .ns_nerveSlider.light .ns_dots .ns_dot {

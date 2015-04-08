@@ -1,0 +1,28 @@
+---
+name: Vimeo Embeds
+description: An embedded vimeo link
+slug: vimeo_embeds
+label_field_name: name
+order_by: created_at
+order_direction: asc
+fields:
+- link:
+    label: link
+    type: string
+    required: true
+    unique: false
+    localized: false
+- name:
+    label: name
+    type: string
+    required: true
+    unique: false
+    localized: false
+- portfolio_item:
+    label: portfolio_item
+    type: belongs_to
+    required: false
+    unique: false
+    localized: false
+    class_name: portfolio_items
+    ui_enabled: true

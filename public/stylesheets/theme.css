@@ -34,6 +34,13 @@ Purchase:  http://themeforest.net/user/josweb
 
 
 
+
+
+
+
+
+
+
 html { position: relative; min-height: 100%; }
 
 body {
@@ -90,6 +97,16 @@ hr { border-top: 1px solid #ccc; border-bottom: 0; }
 .media-body a:hover { color: #777; }
 .big { font-size: 100px; }
 .myslider, .myslider1, .myslider2, .projects  { display: none; }
+
+.overlay {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHUlEQVQIW2NkQAOMUL4PAwPDFgYGBh+YAFwdhgoAOf4CnSQgu8IAAAAASUVORK5CYII=) repeat;
+  height: 100%;
+  z-index: 5;
+}
 
 .well {
 	border: 0px none;
@@ -441,7 +458,7 @@ background-color: transparent;  }
 .slider-wrapper { position: relative; margin: 0 auto 20px auto; }
 .nivoSlider {
 	position: relative;
-	background: transparent url(../img/ajax-loader.gif) no-repeat 50% 50%;
+	background: transparent url(../images/ajax-loader.gif) no-repeat 50% 50%;
     margin: 0 auto;
 }
 .nivoSlider img { position: absolute; top: 0px; left: 0; display: none; }
@@ -457,7 +474,7 @@ background-color: transparent;  }
     width: 33px !important;
     height: 33px !important;
     text-indent: -9999px;
-    background: url("../img/slider_nav.png") no-repeat 0 0;
+    background: url("../images/slider_nav.png") no-repeat 0 0;
     opacity: 0.6;
 }
 a.nivo-nextNav:hover, .nivo-prevNav:hover  { opacity: 1; }
@@ -590,11 +607,15 @@ a.nivo-prevNav { right: 33px; }
 .team_bio{ width: 80%; text-align: center; margin: 0 auto; }
 hr.team-line {  
 	border: 0;
-	background: url(../img/lines.png) repeat; 
+	background: url(../images/lines.png) repeat; 
     height: 10px;
 	width: 160px;
 	margin: 25px auto 25px;
 } 
+
+.team-member {
+  min-height: 530px;
+}
 
 /*************************************************************
 	II: ABOUT PAGE
@@ -1191,7 +1212,7 @@ span.nav-close:before { content: "\f00d"; }
 	width: 33px;
 	height: 33px;
 	margin-top: -17px;
-	background-image:url(../img/main_carousel_nav.png)!important;
+	background-image:url(../images/main_carousel_nav.png)!important;
 	background-position: 0 -33px;
 	background-repeat: no-repeat; 
 	outline: none; 

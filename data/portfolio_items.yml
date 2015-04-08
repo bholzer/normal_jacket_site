@@ -1,1 +1,11 @@
---- []
+---
+- Test portfolio entry:
+    _slug: test-portfolio-entry
+    description: this is the description
+    featured_image: "/samples/portfolio_items/test-portfolio-entry/DJI00011.JPG"
+    gallery: gallery-test
+- Old Paints Video:
+    _slug: old-paints-video
+    description: Our first video as a team
+    featured_image: "/samples/portfolio_items/old-paints-video/Screen_Shot_2015-04-07_at_8.12.53_PM.png"
+    vimeo_embed: old-paints-rock-and-roll

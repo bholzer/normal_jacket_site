@@ -14,11 +14,10 @@ fields:
     localized: false
 - bio:
     label: bio
-    type: text
-    required: false
+    type: string
+    required: true
     unique: false
     localized: false
-    text_formatting: html
 - posts:
     label: posts
     type: has_many
@@ -28,3 +27,15 @@ fields:
     class_name: posts
     inverse_of: author
     ui_enabled: true
+- photo:
+    label: photo
+    type: file
+    required: true
+    unique: false
+    localized: false
+- title:
+    label: title
+    type: string
+    required: true
+    unique: false
+    localized: false

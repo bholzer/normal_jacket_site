@@ -27,10 +27,10 @@ seo_title: Work
     <div class="row">
       <div class="projects">
         {% for item in contents.portfolio_items %}
-        <div class="col-xs-12 col-sm-6 col-md-6 element category01" data-category="category01">
-          <div class="hover_img">
-            <a href="/work/{{ item._slug }}" data-rel="prettyPhoto[portfolio1]">
-              <img src="{{ item.featured_image.url }}" alt="" />
+        <div class="col-xs-12 col-sm-6 col-md-6 element category01 portfolio-item" data-category="category01">
+          <div>
+            <a href="/work/{{ item._slug }}">
+              <img src="{{ item.featured_image.url | resize: '570x350#' }}" alt="" />
             </a>
           </div>
           <div class="item_description">

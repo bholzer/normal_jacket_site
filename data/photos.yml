@@ -3,28 +3,42 @@
     _slug: tubes
     name: Test
     caption: This is a test image
-    galleries:
-    - test-gallery
+    gallery: []
 - "/samples/photos/ekg/EKG.jpg":
     _slug: ekg
     name: EKG
     caption: Something EKG related
-    galleries:
-    - test-gallery
+    gallery: []
 - "/samples/photos/tubes-1/tubes.jpg":
     _slug: tubes-1
     name: Tubes
     caption: More Doctor stuff
-    galleries: []
+    gallery: []
 - "/samples/photos/handx/handx.png":
     _slug: handx
     name: Hand thing
     caption: some hand
-    galleries:
-    - test-gallery
+    gallery:
+    - gallery-test
 - "/samples/photos/pup/pup.png":
     _slug: pup
     name: Doge
     caption: Doge
-    galleries:
-    - test-gallery
+    gallery:
+    - gallery-test
+- "/samples/photos/screen_shot_2015-04-07_at_8_dot_12_dot_53_pm/Screen_Shot_2015-04-07_at_8.12.53_PM.png":
+    _slug: screen_shot_2015-04-07_at_8_dot_12_dot_53_pm
+    name: Old Paints
+    caption: Our first shoot as a team
+    gallery:
+    - gallery-test
+- "/samples/photos/dji00009/DJI00009.JPG":
+    _slug: dji00009
+    name: Drone 1
+    caption: A caption
+    gallery: []
+- "/samples/photos/dji00011/DJI00011.JPG":
+    _slug: dji00011
+    name: Drone 2
+    caption: caption again
+    gallery: []

@@ -8445,3 +8445,5932 @@ Found page "Work" [work]
 [ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
 
 * Reloaded "pages", "snippets" at 2015-04-07 19:51:29 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 19:55:53 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 19:59:48 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:59:48 -0500
+* Reloaded "content_entries" at 2015-04-07 19:59:48 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:59:49 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:00:43 -0500
+Started GET "/work" at 2015-04-07 20:00:46 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.2ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 20:00:48 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:00:57 -0500
+Started GET "/work" at 2015-04-07 20:01:00 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:01:06 -0500
+Started GET "/work" at 2015-04-07 20:01:07 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:01:15 -0500
+Started GET "/work" at 2015-04-07 20:01:15 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.7ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 20:01:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:01:44 -0500
+Started GET "/work" at 2015-04-07 20:01:44 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.0ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 20:01:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:01:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work" at 2015-04-07 20:01:55 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.1ms
+
+
+unable to get an API token: Operation timed out - connect(2) for "104.131.37.198" port 80
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:23:47 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 20:23:47 -0500
+* Reloaded "content_entries" at 2015-04-07 20:23:47 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:23:47 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:24:46 -0500
+Started GET "/work" at 2015-04-07 20:25:02 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:29:02 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:29:47 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 20:33:18 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:37:15 -0500
+Started GET "/work" at 2015-04-07 20:37:20 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started HEAD "/work/img/large/full_project1@2x.jpg" at 2015-04-07 20:37:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:38:38 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:38:39 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:38:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:38:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:38:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started HEAD "/work/img/large/full_project1@2x.jpg" at 2015-04-07 20:38:40 -0500
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:38:40 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:52 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:52 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:55 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:55 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:38:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:38:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:16 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:16 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:37 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:37 -0500
+Completed 404 Not Found in 1.4ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:40 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:40 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:46 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:46 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:39:59 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:39:59 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:14 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:14 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:19 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:19 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:23 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:23 -0500
+Completed 404 Not Found in 1.5ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:35 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:35 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.5ms
+
+
+Completed 404 Not Found in 2.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:47 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:47 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+Completed 404 Not Found in 2.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:40:59 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:40:59 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:23 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:23 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 7.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:41:41 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:47 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:47 -0500
+Completed 404 Not Found in 1.7ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 19.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:41:59 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:41:59 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.9ms
+
+
+Completed 404 Not Found in 3.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:27 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:36 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:36 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:41 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:41 -0500
+Completed 404 Not Found in 1.9ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:42:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:42:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:43:22 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:28 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:28 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:43:29 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:43:30 -0500
+Completed 404 Not Found in 1.8ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:43:30 -0500
+Detecting locale EN
+Started HEAD "/work/img/large/full_project1@2x.jpg" at 2015-04-07 20:43:30 -0500
+Completed 404 Not Found in 1.7ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:39 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:39 -0500
+Completed 404 Not Found in 1.5ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:48 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:48 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:51 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:51 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:54 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:54 -0500
+Completed 404 Not Found in 1.1ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:43:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:43:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:44:02 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:44:02 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:03 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.9ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 3.8ms
+
+
+Completed 404 Not Found in 4.3ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started HEAD "/work/img/large/full_project1@2x.jpg" at 2015-04-07 20:44:03 -0500
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:44:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.2ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 5.1ms
+
+
+Completed 404 Not Found in 5.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:06 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:06 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.4ms
+
+
+Completed 404 Not Found in 2.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:44:17 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:44:18 -0500
+Completed 404 Not Found in 2.1ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.5ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:44:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:44:19 -0500
+Started HEAD "/work/img/large/full_project1@2x.jpg" at 2015-04-07 20:44:19 -0500
+Detecting locale EN
+Started HEAD "/work/img/large/full_project2@2x.jpg" at 2015-04-07 20:44:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.5ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 4.3ms
+
+
+Completed 404 Not Found in 5.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 8.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:28 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:28 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 11.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:49 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:49 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:44:56 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:56 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:44:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:00 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:00 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:12 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:12 -0500
+Completed 404 Not Found in 1.3ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:37 -0500
+Detecting locale EN
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:37 -0500
+Completed 404 Not Found in 1.4ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:45:58 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:58 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 3.1ms
+
+
+Completed 404 Not Found in 2.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:45:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:07 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:07 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 4.2ms
+
+
+Completed 404 Not Found in 4.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:10 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:10 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:19 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:19 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:28 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:28 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:34 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:34 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:46 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:46 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:46:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:46:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:47:07 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:25 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:25 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:47:48 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:55 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:55 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:47:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:47:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 9.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:05 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:07 -0500
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:07 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:08 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:16 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:16 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 14.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:23 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:35 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:48:41 -0500
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work/img/large/full_project1.jpg" at 2015-04-07 20:48:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/work/img/large/full_project2.jpg" at 2015-04-07 20:48:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:48:46 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:49:03 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_entries" at 2015-04-07 20:53:01 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 20:53:01 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:53:01 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:53:01 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:53:59 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:56:37 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:56:39 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:56:53 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 20:56:53 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:56:53 -0500
+* Reloaded "content_entries" at 2015-04-07 20:56:53 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 20:57:51 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:58:29 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:58:37 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.4ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:58:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:58:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:58:48 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 20:58:51 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:58:54 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:58:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:58:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:59:06 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:59:07 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.9ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:59:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.0ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:59:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:59:23 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:59:23 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:59:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.4ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:59:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:59:41 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:59:41 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 8.4ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:59:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:59:41 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:59:49 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:59:50 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.7ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:59:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:59:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 20:59:54 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 20:59:55 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.4ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 20:59:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.5ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 20:59:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:00:37 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 21:00:38 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.3ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 21:00:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:01:44 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 21:01:49 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.3ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 21:01:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 21:01:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:02:46 -0500
+Started GET "/work/test-portfolio-entry" at 2015-04-07 21:03:11 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.6ms
+
+
+Started GET "/img/ajax-loader.gif" at 2015-04-07 21:03:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/img/slider_nav.png" at 2015-04-07 21:03:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/work" at 2015-04-07 21:03:23 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:03:33 -0500
+Started GET "/work" at 2015-04-07 21:03:33 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:03:40 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:05:52 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:07:40 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+Started GET "/img/zoom.png" at 2015-04-07 21:11:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+* Reloaded "content_entries" at 2015-04-07 21:14:25 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:14:25 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:14:25 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:14:25 -0500
+Started GET "/work" at 2015-04-07 21:15:17 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.1ms
+
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:15:27 -0500
+Started GET "/work" at 2015-04-07 21:15:32 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 21:15:52 -0500
+Started GET "/work" at 2015-04-07 21:15:54 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+Started GET "/work/old-paints-video" at 2015-04-07 21:16:00 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.0ms
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:18:28 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:21:35 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:25:43 -0500
+* Reloaded "content_entries" at 2015-04-07 21:25:43 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:25:43 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:25:43 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:26:28 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:26:31 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:26:43 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:27:09 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:27:13 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:27:27 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:27:33 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:28:51 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 21:29:35 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 21:34:25 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 21:35:56 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:36:39 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:37:39 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:37:52 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:49:19 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:50:25 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:50:25 -0500
+* Reloaded "content_entries" at 2015-04-07 21:50:25 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:50:26 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 21:51:31 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:52:39 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:52:48 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 21:52:53 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 21:53:13 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 22:11:02 -0500
+* Reloaded "content_entries" at 2015-04-07 22:11:02 -0500
+* Reloaded "content_types", "content_entries" at 2015-04-07 22:11:02 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 22:11:02 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 22:12:06 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 22:13:20 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-07 22:50:05 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 22:50:05 -0500
+* Reloaded "content_entries" at 2015-04-07 22:50:05 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 22:50:05 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 22:51:20 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 22:52:19 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 22:59:35 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:01:20 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 23:04:58 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 23:08:51 -0500
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-07 23:25:50 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:26:03 -0500
+Started GET "/index.html" at 2015-04-07 23:26:10 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:26:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:26:11 -0500
+Started GET "/assets/loader.gif" at 2015-04-07 23:26:11 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/index.html" at 2015-04-07 23:26:13 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:26:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:26:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:26:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:26:51 -0500
+Started GET "/index.html" at 2015-04-07 23:26:53 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:26:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:26:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:26:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:29:11 -0500
+Started GET "/index.html" at 2015-04-07 23:29:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:29:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:29:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:29:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/index.html" at 2015-04-07 23:29:25 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:29:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:29:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:29:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:30:53 -0500
+Started GET "/index.html" at 2015-04-07 23:30:59 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:30:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:30:59 -0500
+Detecting locale EN
+Started GET "/assets/timer.png" at 2015-04-07 23:30:59 -0500
+Completed 404 Not Found in 2.3ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:30:59 -0500
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 2.8ms
+
+
+Completed 404 Not Found in 2.4ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:30:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:31:14 -0500
+Started GET "/index.html" at 2015-04-07 23:31:14 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:31:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:31:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:31:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:31:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:31:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/assets/gridtile.png" at 2015-04-07 23:31:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/index.html" at 2015-04-07 23:33:48 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/assets/gridtile.png" at 2015-04-07 23:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:37:40 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:37:47 -0500
+Started GET "/index.html" at 2015-04-07 23:38:01 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:38:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 23:38:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 23:38:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:38:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:38:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/assets/gridtile.png" at 2015-04-07 23:38:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.8ms
+
+
+Started GET "/index.html" at 2015-04-07 23:39:18 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:39:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.2ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:39:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:39:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/index.html" at 2015-04-07 23:39:42 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:39:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:39:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:39:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/index.html" at 2015-04-07 23:40:59 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:41:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.4ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:41:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:41:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/index.html" at 2015-04-07 23:41:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:41:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:41:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:41:07 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:41:44 -0500
+Started GET "/index.html" at 2015-04-07 23:41:44 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:41:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:41:52 -0500
+Started GET "/index.html" at 2015-04-07 23:41:53 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:41:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/font/revicons.woff" at 2015-04-07 23:41:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/font/revicons.ttf" at 2015-04-07 23:41:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/index.html" at 2015-04-07 23:42:31 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:42:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/index.html" at 2015-04-07 23:42:55 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:42:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.7ms
+
+
+Started GET "/index.html" at 2015-04-07 23:43:00 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:43:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:43:44 -0500
+Started GET "/index.html" at 2015-04-07 23:43:47 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:43:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+Started GET "/about-us" at 2015-04-07 23:43:53 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.8ms
+
+
+Started GET "/blog" at 2015-04-07 23:43:58 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.0ms
+
+
+Started GET "/blog" at 2015-04-07 23:44:02 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.3ms
+
+
+Started GET "/blog" at 2015-04-07 23:44:03 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.0ms
+
+
+Started GET "/blog" at 2015-04-07 23:44:05 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.1ms
+
+
+Started GET "/blog" at 2015-04-07 23:44:06 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+Started GET "/work" at 2015-04-07 23:44:08 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 9.0ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 23:44:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/index.html" at 2015-04-07 23:44:11 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:44:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:44:41 -0500
+Started GET "/index.html" at 2015-04-07 23:44:42 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:44:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:44:59 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:45:11 -0500
+Started GET "/index.html" at 2015-04-07 23:45:11 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:45:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.8ms
+
+
+Started GET "/about-us" at 2015-04-07 23:45:19 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.2ms
+
+
+Started GET "/blog" at 2015-04-07 23:45:22 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 7.6ms
+
+
+Started GET "/work" at 2015-04-07 23:45:25 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:47:02 -0500
+Started GET "/work" at 2015-04-07 23:47:16 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 32.5ms
+
+
+Started GET "/index.html" at 2015-04-07 23:47:19 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:47:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.6ms
+
+
+Started GET "/about-us" at 2015-04-07 23:47:20 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.6ms
+
+
+Started GET "/blog" at 2015-04-07 23:47:25 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.4ms
+
+
+Started GET "/work" at 2015-04-07 23:47:27 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 7.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:47:52 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:47:59 -0500
+Started GET "/work" at 2015-04-07 23:48:00 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.7ms
+
+
+Started GET "/index.html" at 2015-04-07 23:48:03 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 23:48:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/about-us" at 2015-04-07 23:48:07 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.7ms
+
+
+Started GET "/blog" at 2015-04-07 23:48:14 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 7.6ms
+
+
+Started GET "/work" at 2015-04-07 23:48:22 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.3ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 23:48:25 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 23:48:28 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+Started GET "/work/old-paints-video" at 2015-04-07 23:48:28 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.8ms
+
+
+  Rendered liquid page template
+Completed 200 OK in 16.6ms
+
+
+Started GET "/work/old-paints-video" at 2015-04-07 23:48:36 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+Started GET "/work" at 2015-04-07 23:48:41 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.0ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 23:48:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/work/old-paints-video" at 2015-04-07 23:48:44 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.3ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 23:48:44 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.6ms
+
+
+Started GET "/work/test-portfolio-entry" at 2015-04-07 23:48:47 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 6.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:49:10 -0500
+Started GET "/work/" at 2015-04-07 23:49:16 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 23:49:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/work/old-paints-video" at 2015-04-07 23:49:19 -0500
+Detecting locale EN
+Found page "Content type template" [work/*]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+Started GET "/work/" at 2015-04-07 23:49:22 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+Started GET "/img/zoom.png" at 2015-04-07 23:49:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:49:43 -0500
+Started GET "/work/" at 2015-04-07 23:49:44 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:49:58 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 23:50:26 -0500
+Started GET "/work/" at 2015-04-07 23:50:28 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:51:40 -0500
+Started GET "/work/" at 2015-04-07 23:52:40 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.8ms
+
+
+Started GET "/work/" at 2015-04-07 23:53:43 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 7.3ms
+
+
+Started GET "/work/" at 2015-04-07 23:56:50 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 10.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-07 23:58:16 -0500
+Started GET "/work/" at 2015-04-07 23:58:18 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.4ms
+
+
+Started GET "/work/" at 2015-04-07 23:58:46 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+Started GET "/work/" at 2015-04-07 23:59:03 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 8.2ms
+
+
+Started GET "/work/" at 2015-04-08 00:00:21 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 9.3ms
+
+
+Started GET "/work/" at 2015-04-08 00:00:45 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-04-08 00:01:58 -0500
+Started GET "/index.html" at 2015-04-08 00:02:03 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.3ms
+
+
+Started GET "/index.html" at 2015-04-08 00:02:08 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:02:34 -0500
+Started GET "/index.html" at 2015-04-08 00:02:36 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:02:47 -0500
+Started GET "/index.html" at 2015-04-08 00:02:47 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:02:51 -0500
+Started GET "/index.html" at 2015-04-08 00:02:52 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:02:58 -0500
+Started GET "/index.html" at 2015-04-08 00:02:59 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:02:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:03:03 -0500
+Started GET "/index.html" at 2015-04-08 00:03:03 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:03:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:03:10 -0500
+Started GET "/index.html" at 2015-04-08 00:03:10 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:03:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:03:19 -0500
+Started GET "/index.html" at 2015-04-08 00:03:19 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:03:19 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:03:25 -0500
+Started GET "/index.html" at 2015-04-08 00:03:26 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:03:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:03:30 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:04:17 -0500
+Started GET "/index.html" at 2015-04-08 00:04:21 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:04:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:04:48 -0500
+Started GET "/index.html" at 2015-04-08 00:04:49 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:04:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:04:53 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:04:56 -0500
+Started GET "/index.html" at 2015-04-08 00:04:57 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:04:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:05:05 -0500
+Started GET "/index.html" at 2015-04-08 00:05:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:05:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:05:13 -0500
+Started GET "/index.html" at 2015-04-08 00:05:13 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:05:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:05:18 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:05:24 -0500
+Started GET "/index.html" at 2015-04-08 00:05:24 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:05:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:06:08 -0500
+Started GET "/index.html" at 2015-04-08 00:06:08 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:06:09 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:06:14 -0500
+Started GET "/index.html" at 2015-04-08 00:06:14 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:06:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:06:27 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:06:33 -0500
+Started GET "/index.html" at 2015-04-08 00:06:34 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:06:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:06:37 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:06:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:07:05 -0500
+Started GET "/index.html" at 2015-04-08 00:07:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:07:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:07:15 -0500
+Started GET "/index.html" at 2015-04-08 00:07:16 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:07:16 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:07:23 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:07:37 -0500
+Started GET "/index.html" at 2015-04-08 00:07:38 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:07:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+Started GET "/index.html" at 2015-04-08 00:07:46 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:07:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:07:49 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:07:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/index.html" at 2015-04-08 00:08:55 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:08:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:09:01 -0500
+Started GET "/index.html" at 2015-04-08 00:09:01 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:09:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/index.html" at 2015-04-08 00:09:55 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:09:55 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:10:27 -0500
+Started GET "/index.html" at 2015-04-08 00:10:27 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:10:34 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:10:36 -0500
+Started GET "/index.html" at 2015-04-08 00:10:37 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:10:41 -0500
+Started GET "/index.html" at 2015-04-08 00:10:41 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/index.html" at 2015-04-08 00:10:49 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:10:52 -0500
+Started GET "/index.html" at 2015-04-08 00:10:53 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:10:58 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:10:59 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:11:12 -0500
+Started GET "/index.html" at 2015-04-08 00:11:12 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:11:13 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/index.html" at 2015-04-08 00:11:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:11:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:11:20 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:11:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:11:25 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:11:30 -0500
+Started GET "/index.html" at 2015-04-08 00:11:30 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:11:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:11:43 -0500
+Started GET "/index.html" at 2015-04-08 00:11:43 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:11:43 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:12:29 -0500
+Started GET "/index.html" at 2015-04-08 00:12:29 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:12:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:12:34 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:12:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:12:42 -0500
+Started GET "/index.html" at 2015-04-08 00:12:42 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:12:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:12:52 -0500
+Started GET "/index.html" at 2015-04-08 00:12:53 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:12:53 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:12:55 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:12:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:10 -0500
+Started GET "/index.html" at 2015-04-08 00:13:10 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:13:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:14 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:32 -0500
+Started GET "/index.html" at 2015-04-08 00:13:33 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:13:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:37 -0500
+Started GET "/index.html" at 2015-04-08 00:13:38 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:13:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:41 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:13:51 -0500
+Started GET "/index.html" at 2015-04-08 00:13:52 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:13:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+Started GET "/index.html" at 2015-04-08 00:13:54 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:13:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:14:00 -0500
+Started GET "/index.html" at 2015-04-08 00:14:01 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:14:01 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:14:20 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:14:21 -0500
+Started GET "/index.html" at 2015-04-08 00:14:21 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:14:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:14:31 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:14:41 -0500
+Started GET "/index.html" at 2015-04-08 00:14:41 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:14:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:15:08 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:15:17 -0500
+Started GET "/index.html" at 2015-04-08 00:15:18 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:15:18 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:15:25 -0500
+Started GET "/index.html" at 2015-04-08 00:15:26 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:15:26 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:15:31 -0500
+Started GET "/index.html" at 2015-04-08 00:15:31 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:15:32 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.7ms
+
+
+Started GET "/index.html" at 2015-04-08 00:15:34 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:15:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 5.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:16:11 -0500
+Started GET "/index.html" at 2015-04-08 00:16:11 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:16:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/index.html" at 2015-04-08 00:16:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:16:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:17:38 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:17:41 -0500
+Started GET "/index.html" at 2015-04-08 00:17:47 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:17:47 -0500
+Detecting locale EN
+Completed 404 Not Found in 6.4ms
+
+
+Started GET "/index.html" at 2015-04-08 00:17:52 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:17:54 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:18:00 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:18:02 -0500
+Started GET "/index.html" at 2015-04-08 00:18:02 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:18:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:18:10 -0500
+Started GET "/index.html" at 2015-04-08 00:18:10 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:18:10 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:18:14 -0500
+Started GET "/index.html" at 2015-04-08 00:18:14 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:18:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:18:29 -0500
+Started GET "/index.html" at 2015-04-08 00:18:30 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:18:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/index.html" at 2015-04-08 00:18:33 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:18:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:21:25 -0500
+Started GET "/index.html" at 2015-04-08 00:21:30 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:21:30 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/index.html" at 2015-04-08 00:21:34 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:21:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:21:36 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:21:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/index.html" at 2015-04-08 00:21:38 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:21:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:22:11 -0500
+Started GET "/index.html" at 2015-04-08 00:22:13 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:22:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/index.html" at 2015-04-08 00:22:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:22:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+Started GET "/index.html" at 2015-04-08 00:22:20 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:22:20 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:22:33 -0500
+Started GET "/index.html" at 2015-04-08 00:22:34 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:22:34 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:22:36 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:22:36 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:27:09 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:29:54 -0500
+Started GET "/index.html" at 2015-04-08 00:31:13 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:31:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.7ms
+
+
+Started GET "/index.html" at 2015-04-08 00:31:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:31:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:32:37 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:32:37 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:32:39 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:32:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:33:01 -0500
+Started GET "/index.html" at 2015-04-08 00:33:12 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:33:12 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:33:17 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:33:17 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:33:22 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:33:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:33:47 -0500
+Started GET "/index.html" at 2015-04-08 00:33:48 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:33:49 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:35:45 -0500
+Started GET "/index.html" at 2015-04-08 00:35:45 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:35:46 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:35:49 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:35:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+Started GET "/index.html" at 2015-04-08 00:35:51 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:35:51 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:35:57 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:35:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/index.html" at 2015-04-08 00:35:58 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:35:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:36:31 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:36:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/index.html" at 2015-04-08 00:36:33 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:36:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:39:10 -0500
+Started GET "/index.html" at 2015-04-08 00:39:11 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:39:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:41:04 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:41:04 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:41:27 -0500
+Started GET "/index.html" at 2015-04-08 00:41:27 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:41:28 -0500
+Detecting locale EN
+Completed 404 Not Found in 3.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:41:35 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:41:36 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:41:37 -0500
+Started GET "/index.html" at 2015-04-08 00:41:38 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:41:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:42:49 -0500
+Started GET "/index.html" at 2015-04-08 00:42:50 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:42:50 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:42:59 -0500
+Started GET "/index.html" at 2015-04-08 00:43:00 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:00 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.3ms
+
+
+Started GET "/index.html" at 2015-04-08 00:43:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:43:30 -0500
+Started GET "/index.html" at 2015-04-08 00:43:31 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:31 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.2ms
+
+
+Started GET "/index.html" at 2015-04-08 00:43:39 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:39 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:43:44 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:44 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/index.html" at 2015-04-08 00:43:56 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:43:56 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:44:21 -0500
+Started GET "/index.html" at 2015-04-08 00:44:21 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:44:22 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.5ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:44:27 -0500
+* Reloaded "pages", "snippets" at 2015-04-08 00:44:32 -0500
+Started GET "/index.html" at 2015-04-08 00:44:32 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:44:33 -0500
+Detecting locale EN
+Completed 404 Not Found in 4.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:44:40 -0500
+Started GET "/index.html" at 2015-04-08 00:45:40 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:45:40 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:45:50 -0500
+Started GET "/index.html" at 2015-04-08 00:45:58 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.6ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:45:58 -0500
+Detecting locale EN
+Completed 404 Not Found in 5.4ms
+
+
+Started GET "/index.html" at 2015-04-08 00:46:02 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:46:03 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+Started GET "/index.html" at 2015-04-08 00:46:14 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:46:14 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:46:45 -0500
+Started GET "/index.html" at 2015-04-08 00:46:47 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:46:48 -0500
+Detecting locale EN
+Completed 404 Not Found in 2.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:46:52 -0500
+Started GET "/index.html" at 2015-04-08 00:46:52 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:46:52 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:46:56 -0500
+Started GET "/index.html" at 2015-04-08 00:46:57 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:46:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:47:15 -0500
+Started GET "/index.html" at 2015-04-08 00:47:15 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:47:15 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:47:21 -0500
+Started GET "/index.html" at 2015-04-08 00:47:21 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:47:21 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.6ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-08 00:48:09 -0500
+Started GET "/index.html" at 2015-04-08 00:48:29 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:48:29 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:48:38 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.7ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:48:38 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:48:56 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:48:57 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/index.html" at 2015-04-08 00:49:01 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:49:02 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/index.html" at 2015-04-08 00:49:06 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:49:06 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/index.html" at 2015-04-08 00:49:11 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 2.9ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:49:11 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.4ms
+
+
+Started GET "/index.html" at 2015-04-08 00:49:24 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:49:24 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.0ms
+
+
+Started GET "/about-us" at 2015-04-08 00:49:31 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.8ms
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+Started GET "/blog" at 2015-04-08 00:49:35 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.5ms
+
+
+Started GET "/work" at 2015-04-08 00:49:39 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 5.6ms
+
+
+Started GET "/index.html" at 2015-04-08 00:49:42 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-08 00:49:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.9ms
+
+

@@ -23,20 +23,11 @@ fields:
     required: false
     unique: false
     localized: false
-- post:
-    label: post
-    type: belongs_to
-    required: false
-    unique: false
-    localized: false
-    class_name: posts
-    ui_enabled: true
-- galleries:
-    label: galleries
+- gallery:
+    label: gallery
     type: many_to_many
     required: false
     unique: false
     localized: false
     class_name: photo_galleries
-    inverse_of: photos
     ui_enabled: true

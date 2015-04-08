@@ -1,0 +1,61 @@
+---
+title: Content type template
+slug: content_type_template
+is_layout: false
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+content_type: portfolio_items
+---
+{% extends 'parent' %}
+{% block 'main' %}
+
+<div class="container wrapper">
+  <div class="inner_content">
+    {% if portfolio_item.gallery %}
+    <div class="row">
+      <div class="col-md-12 pad15">
+        <div id="nslider" class="nivoSlider">
+        <!-- add your images here -->
+          {% for photo in portfolio_item.gallery.photos %}
+            <img src="{{ photo.file.url | resize: '1130x550#' }}" alt="" title="#nivocaption{{ forloop.index }}" />
+          {% endfor %}
+        </div>
+        <!-- add your captions here -->
+        {% for photo in portfolio_item.gallery.photos %}
+          <div id="nivocaption{{ forloop.index }}" class="nivo-html-caption">{{ photo.caption }}</div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    {% if portfolio_item.vimeo_embed %}
+    <div class="row">
+      <div class="col-md-12 pad15">
+        <iframe src="{{ portfolio_item.vimeo_embed.link }}" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+    </div>
+    {% endif %}
+    <div class="row pad30">
+      <div class="col-md-12">
+        <p>{{ portfolio_item.description }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ 'jquery.nivo.slider.pack.js' | javascript_tag }}
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('.nivoSlider').nivoSlider({
+      effect: 'fade',
+      animSpeed: 500,
+      pauseTime: 3000,
+      directionNav: true,
+      controlNav: true,
+      controlNavThumbs: true,
+      pauseOnHover: true
+    });
+  });
+</script>
+{% endblock %}

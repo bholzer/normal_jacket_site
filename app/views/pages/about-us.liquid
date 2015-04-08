@@ -29,22 +29,19 @@ seo_title: About Us
       <div class="row pad30">
         <div class="clear pad25"></div>
   {% for team_member in contents.people %}
-    <div class="col-sm-6 col-md-4">
+    <div class="team-member col-sm-6 col-md-4">
       <div class="team_sections fadeindown">
-      <img alt="" src="img/team/team1.jpg" class="th">
+      <img alt="" src="{{ team_member.photo.url | resize: '200x200'}}" class="th">
       <h5>
         <span>{{ team_member.name | uppercase }}</span>
       </h5>
       <p>
-        <small class="muted">- title - </small>
+        <small class="muted">- {{ team_member.title }} - </small>
       </p>
       <p class="team_bio">
         {{ team_member.bio }}
       </p>
       <hr class="team-line">
-      <a href="#" class="zocial icon twitter team_ic"></a>
-      <a href="#" class="zocial icon facebook team_ic"></a>
-      <a href="#" class="zocial icon dribbble team_ic"></a>
       </div>
       <div class="pad15"></div>
     </div>
