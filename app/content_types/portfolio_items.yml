@@ -1,7 +1,7 @@
 ---
-name: Photo Galleries
-description: A model for holding many photos
-slug: photo_galleries
+name: Portfolio Items
+description: A portfolio item. Can be a photo, a photo gallery, or video
+slug: portfolio_items
 label_field_name: name
 order_by: created_at
 order_direction: asc
@@ -18,20 +18,28 @@ fields:
     required: false
     unique: false
     localized: false
+- featured_image:
+    label: featured_image
+    type: file
+    hint: about 3:4 ratio, at least 500px wide
+    required: true
+    unique: false
+    localized: false
 - photos:
     label: photos
-    type: many_to_many
+    type: has_many
     required: false
     unique: false
     localized: false
     class_name: photos
-    inverse_of: galleries
+    inverse_of: post
     ui_enabled: true
-- porfolio_item:
-    label: porfolio_item
-    type: belongs_to
+- galleries:
+    label: galleries
+    type: has_many
     required: false
     unique: false
     localized: false
-    class_name: portfolio_items
+    class_name: photo_galleries
+    inverse_of: post
     ui_enabled: true

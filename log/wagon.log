@@ -8267,3 +8267,181 @@ Completed 404 Not Found in 1.0ms
 * Reloaded "pages", "snippets" at 2015-04-07 19:46:32 -0500
 * Reloaded "pages", "snippets" at 2015-04-07 19:46:50 -0500
 * Reloaded "pages", "snippets" at 2015-04-07 19:47:35 -0500
+* Reloaded "content_entries" at 2015-04-07 19:48:09 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:48:09 -0500
+unknow content type "portfolio_items"
+unknow content type "portfolio_items"
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.2/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.3/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/brennan/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_types", "content_entries" at 2015-04-07 19:48:09 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:48:09 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:48:13 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:48:38 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:48:44 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:48:53 -0500
+Started GET "/work" at 2015-04-07 19:48:59 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-07 19:49:04 -0500
+Started GET "/work" at 2015-04-07 19:49:06 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+Started GET "/work" at 2015-04-07 19:49:07 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+Started GET "/work" at 2015-04-07 19:49:14 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:50:01 -0500
+Started GET "/work" at 2015-04-07 19:50:02 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+Started GET "/work" at 2015-04-07 19:50:03 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:50:34 -0500
+Started GET "/work" at 2015-04-07 19:50:34 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:50:37 -0500
+* Reloaded "pages", "snippets" at 2015-04-07 19:50:39 -0500
+Started GET "/" at 2015-04-07 19:50:42 -0500
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.0ms
+
+
+Started GET "/img/red_ribbon.png" at 2015-04-07 19:50:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.8ms
+
+
+Started GET "/assets/timer.png" at 2015-04-07 19:50:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/assets/loader.gif" at 2015-04-07 19:50:42 -0500
+Detecting locale EN
+Completed 404 Not Found in 0.7ms
+
+
+Started GET "/about-us" at 2015-04-07 19:50:44 -0500
+Detecting locale EN
+Found page "About us" [about-us]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 3.8ms
+
+
+Started GET "/img/team/team1.jpg" at 2015-04-07 19:50:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started GET "/img/lines.png" at 2015-04-07 19:50:45 -0500
+Detecting locale EN
+Completed 404 Not Found in 1.1ms
+
+
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Detecting locale EN
+Started HEAD "/img/team/team1@2x.jpg" at 2015-04-07 19:50:45 -0500
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Completed 404 Not Found in 5.2ms
+
+
+Detecting locale EN
+Completed 404 Not Found in 5.7ms
+
+
+Completed 404 Not Found in 6.1ms
+
+
+Completed 404 Not Found in 6.4ms
+
+
+Completed 404 Not Found in 6.8ms
+
+
+Completed 404 Not Found in 7.3ms
+
+
+Started GET "/blog" at 2015-04-07 19:50:45 -0500
+Detecting locale EN
+Found page "Blog" [blog]
+  Rendered snippet header
+  Rendered liquid page template
+Completed 200 OK in 4.3ms
+
+
+Started GET "/work" at 2015-04-07 19:50:46 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:51:05 -0500
+Started GET "/work" at 2015-04-07 19:51:06 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:51:23 -0500
+Started GET "/work" at 2015-04-07 19:51:23 -0500
+Detecting locale EN
+Found page "Work" [work]
+  Rendered snippet header
+[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/work.liquid:13:in `Work'
+
+* Reloaded "pages", "snippets" at 2015-04-07 19:51:29 -0500

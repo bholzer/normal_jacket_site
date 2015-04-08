@@ -15,28 +15,28 @@ seo_title: Work
 {% block 'main' %}
 
 <div id="banner">
-	<div class="container intro_wrapper">
-		<div class="inner_content">
-			<h1>Work</h1>
-			<h1 class="title">Take a look at our portfolio</h1>
-		</div>
-	</div>
+  <div class="container intro_wrapper">
+    <div class="inner_content">
+      <h1>Work</h1>
+      <h1 class="title">Take a look at our portfolio</h1>
+    </div>
+  </div>
 </div>
 <div class="container wrapper">
-	<div class="inner_content">
+  <div class="inner_content">
     <div class="row">
       <div class="projects">
-        {% for porfolio_item in contents.portfolio_items %}
+        {% for item in contents.portfolio_items %}
         <div class="col-xs-12 col-sm-6 col-md-6 element category01" data-category="category01">
           <div class="hover_img">
-            <a href="/work/{{ portfolio_item._slug }}" data-rel="prettyPhoto[portfolio1]">
-              <img src="{{ portfolio_item.featured_image.url }}" alt="" />
+            <a href="/work/{{ item._slug }}" data-rel="prettyPhoto[portfolio1]">
+              <img src="{{ item.featured_image.url }}" alt="" />
             </a>
           </div>
           <div class="item_description">
-            <a href="/work/{{ portfolio_item._slug }}"><span>{{ portfolio_item.title }}</span></a>
+            <a href="/work/{{ item._slug }}"><span>{{ item.name }}</span></a>
             <br>
-            {{ portfolio_item.description }}
+            {{ item.description }}
           </div>
         </div>
         {% endfor %}
