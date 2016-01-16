@@ -70,43 +70,32 @@ position: 0
   <!--page-->
   <!-- REVOLUTION SLIDER -->
     <div class="tp-banner-container">
-    <div class="tp-banner">
-      <ul>
-  <!-- SLIDE -->
-    <li data-fstransition="fade" data-fsmasterspeed="0" data-fsslotamount="1">
-      <!-- MAIN IMAGE -->
-        <img src="{{ '10575276_762934797060557_1506914388366141509_o.jpg' | theme_image_url }}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
-          <!-- LAYER NR. 1 -->
-            <div class="tp-caption tp-fade fadeout fullscreenvideo"
-              data-x="center"
-              data-y="center"
-              data-nextslideatend="true"
-              data-forceCover="1"
-              data-dottedoverlay="twoxtwo"
-              data-forcerewind="on"
-              data-volume="mute"
-              style="z-index: 2">
-  <!-- ADD YOUR POSTER IMAGE HERE -->         
-    <video class="video-js" preload="auto" autoplay loop width="100%" height="100%" poster="{{ '10575276_762934797060557_1506914388366141509_o.jpg' | theme_image_url }}">
-    </div>
-      <!-- LAYER NR. 2 -->
-        <div class="tp-caption large_bold_title  tp-resizeme"
-          data-x="center" data-hoffset="0"
-          data-y="170"
-          style="z-index: 3">
-        Normal Jacket
+      <div class="tp-banner">
+        <ul>
+          <!-- SLIDE -->
+          <li data-fstransition="fade" data-fsmasterspeed="0" data-fsslotamount="1" class="slotholder">
+            <!-- MAIN IMAGE -->
+            <img src="{{ '10575276_762934797060557_1506914388366141509_o.jpg' | theme_image_url }}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+            <!-- LAYER NR. 2 -->
+            <div class="tp-caption large_bold_title  tp-resizeme"
+              data-x="center" data-hoffset="0"
+              data-y="170"
+              data-delay="0"
+              style="z-index: 3">
+                Normal Jacket
             </div>
 
-      <!-- LAYER NR. 3 -->
-        <div class="tp-caption medium_text_shadow tp-resizeme"
-          data-x="center" data-hoffset="0"
-          data-y="bottom" data-voffset="-270"
-          style="z-index: 4">
-        Video and Photo Production
-          </div>
-        </li>
-      </ul>
-    </div>
+            <!-- LAYER NR. 3 -->
+            <div class="tp-caption medium_text_shadow tp-resizeme"
+              data-x="center" data-hoffset="0"
+              data-y="bottom" data-voffset="-270"
+              data-delay="0"
+              style="z-index: 4">
+                Video and Photo Production
+            </div>
+          </li>
+        </ul>
+      </div>
   </div>
         <!-- // END REVOLUTION SLIDER  -->
 
@@ -373,13 +362,14 @@ position: 0
     jQuery(document).ready(function() {
       jQuery('.tp-banner').show().revolution(
         {
-          delay: 0,
+          delay: 10,
           startwidth:1170,
           startheight:600,
           fullScreen:"on",
           forceFullWidth:"on",
           fullScreenOffsetContainer: ".header",
-          touchenabled:"off",   
+          touchenabled:"off",
+          dottedOverlay: 'twoxtwo'
         });
       }); 
     //]]>
